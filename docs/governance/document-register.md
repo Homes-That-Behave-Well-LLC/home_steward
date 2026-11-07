@@ -1,6 +1,6 @@
 # Document register
 
-> Complete documentation inventory: 102 files. New requirements await Owner acceptance.
+> Complete documentation inventory: 132 files. New requirements await Owner acceptance.
 > Status definitions: [document status](document-status.md).
 
 ## Root (5; repository policy / navigation)
@@ -71,7 +71,7 @@
 - [Sonos MCP](../research/sonos-mcp.md)
 - [Apple TV and deep links](../research/apple-tv-and-deep-links.md)
 
-## Scenarios (49; template + 48 synthetic proposed acceptance scenarios)
+## Scenarios (79; template + 78 synthetic proposed acceptance scenarios)
 
 - [Scenario template](../scenarios/scenario-template.md)
 - [Painting](../scenarios/tell-me-about-this-painting.md)
@@ -131,6 +131,46 @@ Investigation extension under bootstrap Issue #1:
 - [What new native capability could simplify HTBW?](../scenarios/what-new-native-capability-could-simplify-htbw.md)
 - [Did Home Assistant create a new obligation for HTBW?](../scenarios/did-home-assistant-create-a-new-obligation-for-htbw.md)
 - [Prepare an HTBW native-capability migration review](../scenarios/prepare-an-htbw-native-capability-migration-review.md)
+
+### Entertainment and Media Discovery
+
+Scenario capture only; future execution/handoff architecture is intentionally unresolved.
+
+- [Play this week's episode](../scenarios/play-this-weeks-episode.md)
+- [Find the movie from a plot description](../scenarios/find-the-movie-from-a-plot-description.md)
+- [What was that show we watched?](../scenarios/what-was-that-show-we-watched.md)
+- [Find media by actor, genre or year](../scenarios/find-media-by-actor-genre-or-year.md)
+- [Where can we watch this?](../scenarios/where-can-we-watch-this.md)
+- [Do we own this in our private library?](../scenarios/do-we-own-this-in-our-private-library.md)
+- [Play our copy instead of streaming](../scenarios/play-our-copy-instead-of-streaming.md)
+- [Find something like this](../scenarios/find-something-like-this.md)
+- [Play the album with the blue cover](../scenarios/play-the-album-with-the-blue-cover.md)
+- [Play something like what we heard Saturday](../scenarios/play-something-like-what-we-heard-saturday.md)
+- [Take this media to another room](../scenarios/take-this-media-to-another-room.md)
+- [That is not the content I meant](../scenarios/that-is-not-the-content-i-meant.md)
+- [Entertainment discovery without execution](../scenarios/entertainment-discovery-without-execution.md)
+
+### Aging in Place and Care Awareness
+
+Scenario capture only; person-scoped, non-diagnostic and independent of established emergency paths.
+
+- [Has usual activity changed this week?](../scenarios/has-usual-activity-changed-this-week.md)
+- [What are you seeing that is different?](../scenarios/what-are-you-seeing-that-is-different.md)
+- [Has nighttime activity changed?](../scenarios/has-nighttime-activity-changed.md)
+- [Has sleep been different lately?](../scenarios/has-sleep-been-different-lately.md)
+- [Has activity returned to normal after coming home?](../scenarios/has-activity-returned-to-normal-after-coming-home.md)
+- [What changed before the fall?](../scenarios/what-changed-before-the-fall.md)
+- [Several things seem different; is there a pattern?](../scenarios/several-things-seem-different-is-there-a-pattern.md)
+- [What should the caregiver know?](../scenarios/what-should-the-caregiver-know.md)
+- [What should we tell the doctor?](../scenarios/what-should-we-tell-the-doctor.md)
+- [Has anything changed since the medication changed?](../scenarios/has-anything-changed-since-the-medication-changed.md)
+- [Is this unusual for this person?](../scenarios/is-this-unusual-for-this-person.md)
+- [What don't we know about this change?](../scenarios/what-dont-we-know-about-this-change.md)
+- [Should someone check in?](../scenarios/should-someone-check-in.md)
+- [The wearable generated an alert; what else was happening?](../scenarios/the-wearable-generated-an-alert-what-else-was-happening.md)
+- [Has this happened before? (Care)](../scenarios/has-this-happened-before-care.md)
+- [What has changed from the person's own baseline?](../scenarios/what-has-changed-from-the-persons-own-baseline.md)
+- [Prepare a care observation summary](../scenarios/prepare-a-care-observation-summary.md)
 
 All files are navigation-linked here, including this register and the root ignore policy.
 No runtime file, private source dataset, vendored document or environment artifact belongs in this inventory.

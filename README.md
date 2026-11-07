@@ -102,6 +102,21 @@ It may also [help steward HTBW itself](docs/architecture/htbw-architecture-stewa
 where native platform evolution warrants governed reconsideration, simplification, migration or
 retirement of custom mechanisms without surrendering HTBW governance.
 
+### Entertainment and Media Discovery
+
+Home Steward may help identify media from incomplete descriptions, explore separately authorized
+private and streaming libraries, and clarify titles, artists and availability before any governed
+Home action. Discovery need not imply playback; the execution mechanism remains an open architectural
+question. [Scenario family](docs/governance/document-register.md#entertainment-and-media-discovery).
+
+### Aging in Place and Care Awareness
+
+With explicit person-level authorization, Home Steward may help understand changes in wearable,
+activity, Home and care-related evidence over time, prepare observation summaries and support
+caregiver conversations. These scenarios are not medical diagnosis, clinical monitoring or emergency
+decision-making; implementation remains open.
+[Scenario family](docs/governance/document-register.md#aging-in-place-and-care-awareness).
+
 ## What Home Steward does not own
 
 Foundation; Stewardship; Identity; Truth; Continuity; Operational Trust; Concierge; authoritative
