@@ -86,6 +86,12 @@ exploration, pattern identification and candidate relationship discovery.
 [Extension model](docs/architecture/home-steward-extension-model.md):
 **HTBW native capability**, **Home Steward extended capability**, **Home Steward proposed action**.
 
+HTBW can explain "Why didn't the Dining Room shades close last night?" Home Steward can extend
+the inquiry: "Has that been happening more often?", "When did it start?", "What changed around then?",
+"Did the fix actually work?" and "What evidence are we missing?" Native historical reconstruction
+remains HTBW's; [cross-source investigation](docs/architecture/knowledge-architecture.md#htbw-explainability-and-home-steward-investigation)
+adds evidence-bounded interpretation, not guessed causes or permission to act.
+
 ## What Home Steward does not own
 
 Foundation; Stewardship; Identity; Truth; Continuity; Operational Trust; Concierge; authoritative

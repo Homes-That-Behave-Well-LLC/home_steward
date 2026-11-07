@@ -41,3 +41,38 @@ Fine-grained category names, canonical record shape and enforcement adapters rem
 
 Read access is not write authority. Financial knowledge is not payment/transfer authority.
 Email access is not agreement, commitment, send or approve authority.
+
+## Future governed HA logs and history
+
+**FUTURE GOVERNED SOURCE REQUIREMENT ONLY; no log access, ingestion or connector is implemented.**
+
+Within the existing HTBW / HA source family, operational HA logs/history require a **separate**
+governed source relationship. Permission for HTBW's governed knowledge is not permission for every
+HA log, Recorder row or entity/person history. This preserves the inventory above and does not
+create a new accepted taxonomy or authorization mechanism.
+
+HA logs are operational evidence, not automatically Truth, a physical diagnosis or the Decision
+Trace for an evaluation HTBW did not perform. Native history remains native/source-owned and is
+consumed by eligible reference; no second Recorder or competing Fact history is proposed.
+
+Future design must determine, before implementation:
+
+- Which log/history classes, integrations, entities, fields and time windows are eligible.
+- Query-based access versus ingestion, with no assumption that wholesale ingestion is desirable.
+- Source retention versus separately governed Home Steward retention; neither silently extends the other.
+- Sensitivity, Person/actor privacy, source-existence disclosure and permitted audiences/endpoints.
+- Secret/credential/account/identifier redaction before retrieval, reasoning and any disclosure.
+- Minimum-needed retrieval, access identities, field filters and bounded resource use.
+- Provenance, event/record times, clock precision, deduplication and coverage of derived summaries.
+- Derived authorization/locality/retention, correction, revocation and deletion across caches/backups.
+- Evidence that was never retained, has aged out or is redacted, including honest gaps and unavailable references.
+- The operational-only authority of logs versus Truth-owned Facts and recorded Decision Trace decisions.
+- Performance implications: query volume, history scans, storage/backup growth and effect on native operation.
+
+No query API, ingestion process, retention duration, database, schema or deletion engine is chosen.
+Existing HTBW Explainability retention, reconstruction routing and source ownership remain unchanged.
+Do not assume indefinite raw-log memory or create shadow summaries of expired Explainability content.
+Every proposed investigation/action remains subject to current source, Person and Operational Trust
+governance; Home Steward being local does not confer access.
+
+See [investigation evidence rules](knowledge-architecture.md#evidence-and-epistemic-rules).

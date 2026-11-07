@@ -1,6 +1,6 @@
 # Document register
 
-> Complete bootstrap inventory: 65 files. New requirements await Owner acceptance.
+> Complete documentation inventory: 78 files. New requirements await Owner acceptance.
 > Status definitions: [document status](document-status.md).
 
 ## Root (5; repository policy / navigation)
@@ -69,7 +69,7 @@
 - [Sonos MCP](../research/sonos-mcp.md)
 - [Apple TV and deep links](../research/apple-tv-and-deep-links.md)
 
-## Scenarios (14; template + 13 synthetic proposed acceptance scenarios)
+## Scenarios (27; template + 26 synthetic proposed acceptance scenarios)
 
 - [Scenario template](../scenarios/scenario-template.md)
 - [Painting](../scenarios/tell-me-about-this-painting.md)
@@ -85,6 +85,22 @@
 - [Works by an artist](../scenarios/what-other-works-do-we-own-by-this-artist.md)
 - [Maintenance spending](../scenarios/how-much-did-we-spend-maintaining-this.md)
 - [Continuity for another person](../scenarios/what-should-someone-else-know-if-i-am-unavailable.md)
+
+Investigation extension under bootstrap Issue #1:
+
+- [Why has this been happening lately?](../scenarios/why-has-this-been-happening-lately.md)
+- [When did this problem start?](../scenarios/when-did-this-problem-start.md)
+- [What changed in the Home?](../scenarios/what-changed-in-the-home.md)
+- [Is this getting worse?](../scenarios/is-this-getting-worse.md)
+- [Why do I keep overriding this?](../scenarios/why-do-i-keep-overriding-this.md)
+- [What technology have we stopped using?](../scenarios/what-technology-have-we-stopped-using.md)
+- [What keeps failing?](../scenarios/what-keeps-failing.md)
+- [Are these problems related?](../scenarios/are-these-problems-related.md)
+- [Did the update make things worse?](../scenarios/did-the-update-make-things-worse.md)
+- [Is anything showing early signs of trouble?](../scenarios/is-anything-showing-early-signs-of-trouble.md)
+- [Did the fix actually work?](../scenarios/did-the-fix-actually-work.md)
+- [What keeps making us intervene?](../scenarios/what-keeps-making-us-intervene.md)
+- [What don't you know?](../scenarios/what-dont-you-know.md)
 
 All files are navigation-linked here, including this register and the root ignore policy.
 No runtime file, private source dataset, vendored document or environment artifact belongs in this inventory.
