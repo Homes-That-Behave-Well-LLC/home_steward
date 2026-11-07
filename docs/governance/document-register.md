@@ -1,6 +1,6 @@
 # Document register
 
-> Complete documentation inventory: 392 files. New requirements await Owner acceptance.
+> Complete documentation inventory: 393 files. New requirements await Owner acceptance.
 > Status definitions: [document status](document-status.md).
 
 ## Root (5; repository policy / navigation)
@@ -10,6 +10,10 @@
 - [SECURITY](../../SECURITY.md)
 - [CODE_OF_CONDUCT](../../CODE_OF_CONDUCT.md)
 - [.gitignore](../../.gitignore)
+
+## Documentation assets (1; supplied README artwork)
+
+- [Home Steward hero image](../assets/home-steward-hero.png)
 
 ## Architecture (16; proposed canonical baseline, with explicit accepted-boundary restatements)
 
@@ -484,5 +488,5 @@ Developed content maturity is CANONICAL SCENARIO; new content is VISION — NOT 
 - [What breaks if this server disappears?](../scenarios/counterfactual-and-planning/what-breaks-if-this-server-disappears.md) — VISION — NOT YET ARCHITECTED.
 - [What knowledge survives if Home Steward disappears?](../scenarios/counterfactual-and-planning/what-knowledge-survives-if-home-steward-disappears.md) — VISION — NOT YET ARCHITECTED.
 
-All 392 files are navigation-linked here, including this register and the root ignore policy. The scenario map records all 10 explicit coverage dispositions without duplicate files.
+All 393 files are navigation-linked here, including this register and the root ignore policy. The scenario map records all 10 explicit coverage dispositions without duplicate files.
 No runtime file, private source dataset, vendored document or environment artifact belongs in this inventory.

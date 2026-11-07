@@ -1,3 +1,5 @@
+![Home Steward - Private Intelligence for a More Informed Home](docs/assets/home-steward-hero.png)
+
 # Home Steward
 
 > **Status: architecture and research baseline - AWAITING OWNER ACCEPTANCE REVIEW.**
