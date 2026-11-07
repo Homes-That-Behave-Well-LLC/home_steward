@@ -22,7 +22,7 @@ Person/source/purpose/namespace/audience scope, household-controlled locality an
 
 ## Scenarios
 
-Primary files: **0 developed + 17 Vision = 17**. Cross-links below do not add files or change target maturity.
+Primary files: **0 developed + 27 Vision = 27**. Cross-links below do not add files or change target maturity.
 
 ### Developed / Canonical
 
@@ -49,6 +49,25 @@ No developed primary scenario in this family; new content remains Vision.
 - [Show me what information about our lives crosses the household boundary and why.](show-me-what-information-about-our-lives-crosses-the-household-boundary-and-why.md) — **VISION — NOT YET ARCHITECTED**. Household information can cross the governed boundary through several capabilities, each with a different stated purpose.
 
 Related outcomes: [Guests and Temporary Authority](../guests-and-temporary-authority/README.md) | [Communication and Notification](../communication-and-notification/README.md) | [Transitions and Succession](../transitions-and-succession/README.md).
+
+## Ambient privacy and sensitive cross-source increment
+
+NOTICE != DIAGNOSE; NOTICE != DISCLOSE; NOTICE != RETAIN; NOTICE != RECOMMEND; NOTICE != ACT. Noticing is not authority or automatic Truth, household significance, notification or action.
+
+Combination and disclosure require independent Person/source/purpose/namespace/audience eligibility before reasoning. A warning or 'continue' confirmation does not widen grants; most restrictive source constraints and source-owner revocation remain binding. No consent engine is designed.
+
+- [Tell us when an authorized integration begins communicating differently.](tell-us-when-an-authorized-integration-begins-communicating-differently.md) — **VISION — NOT YET ARCHITECTED**. An authorized integration may change message timing, volume or destinations while its visible feature appears unchanged. The household wants broader communication differences understood without assuming compromise, capturing payloads or confusing first observation with actual onset.
+- [Notice when a previously local capability introduces a new external dependency.](notice-when-a-previously-local-capability-introduces-a-new-external-dependency.md) — **VISION — NOT YET ARCHITECTED**. A capability previously understood as local may begin depending on an outside service. The household wants that boundary change explained even when no particular update is established as its cause, without confusing an endpoint observation with operational dependency.
+- [Tell us when a source's privacy terms or technical behavior materially change.](tell-us-when-a-source-s-privacy-terms-or-technical-behavior-materially-change.md) — **VISION — NOT YET ARCHITECTED**. A source's declared privacy terms or actual technical scope can change after initial authorization. The household wants the difference visible against its granted purpose, not old consent treated as agreement to a new audience or retention practice.
+- [Notice when newly available evidence would require more disclosure than before.](notice-when-newly-available-evidence-would-require-more-disclosure-than-before.md) — **VISION — NOT YET ARCHITECTED**. New evidence may answer a useful question while revealing more than earlier evidence did. The household wants that change in sensitivity understood before combination or disclosure, because usefulness does not remove the original source's audience and purpose limits.
+- [This answer would combine financial and health information. Continue?](this-answer-would-combine-financial-and-health-information-continue.md) — **VISION — NOT YET ARCHITECTED**. Financial and health information can reveal sensitive context when combined even if each source has some authorization. The household wants the combination boundary recognized before reasoning, because a continue response cannot erase source-purpose limits or make the resulting conclusion safe for a shared audience.
+- [This investigation would search private-room visual history.](this-investigation-would-search-private-room-visual-history.md) — **VISION — NOT YET ARCHITECTED**. Private-Room visual history can reveal intimate context beyond an ordinary investigation. The household wants explicit exclusion and purpose boundaries preserved, rather than a useful question or household membership being treated as authority to search bedrooms, bathrooms or other excluded spaces.
+- [This caregiver summary may disclose wearable evidence.](this-caregiver-summary-may-disclose-wearable-evidence.md) — **VISION — NOT YET ARCHITECTED**. A caregiver summary may reveal wearable observations without showing the original records. The household wants that derived disclosure considered explicitly, so minimum wording, family relationship or a caring purpose does not launder Person-private evidence into an automatically eligible summary.
+- [This question requires information from two different people's private sources.](this-question-requires-information-from-two-different-people-s-private-sources.md) — **VISION — NOT YET ARCHITECTED**. Two people's private sources can jointly reveal more than either alone. The household wants independent Person, purpose and audience constraints preserved before comparison, because consent from one contributor or separate access to both documents does not authorize a merged personal profile.
+- [External research would reveal the nature of the household inquiry to a third party.](external-research-would-reveal-the-nature-of-the-household-inquiry-to-a-third-party.md) — **VISION — NOT YET ARCHITECTED**. External research can disclose an inquiry's subject even without sending names or documents. The household wants that exposure understood before research, so private Asset, financial, health or travel interests do not leak through seemingly generic query wording or an automatic fallback.
+- [This answer may expose travel absence information.](this-answer-may-expose-travel-absence-information.md) — **VISION — NOT YET ARCHITECTED**. An answer about an Asset or service can indirectly reveal that the household is away. The household wants travel absence treated as sensitive derived context, not a harmless side detail, because a useful summary on a shared screen or to a provider can expose security-relevant information.
+
+[Complete explicit dispositions](../README.md#ambient-and-household-intelligence-increment) include existing dependency-aware permission-necessity coverage; apparent inactivity is not expiry or revocation. All previously developed and Vision bodies remain unchanged.
 
 ## Open questions
 

@@ -134,6 +134,19 @@ caregiver conversations. These scenarios are not medical diagnosis, clinical mon
 decision-making; implementation remains open.
 [Scenario family](docs/scenarios/aging-in-place/README.md).
 
+### Ambient household intelligence
+
+Many Home Steward scenarios begin as household questions. The longer-term vision also explores
+whether separately authorized local intelligence can recognize meaningful change without requiring
+the household to know which question to ask first. **Noticing is not authority.** Observation does
+not automatically become Truth, diagnosis, disclosure, retained memory, recommendation or action.
+
+The [scenario corpus](docs/scenarios/README.md#ambient-and-household-intelligence-increment) also
+explores visual household evidence, multimodal context, long-running inquiry, household knowledge
+review, evidence challenge, Person-versus-household boundaries, ephemeral evidence, controlled
+correction, local personalization, offline intelligence, multiple interaction surfaces and
+stewardship of Home Steward itself. These remain Vision questions, not implemented mechanisms.
+
 ## What Home Steward does not own
 
 Foundation; Stewardship; Identity; Truth; Continuity; Operational Trust; Concierge; authoritative

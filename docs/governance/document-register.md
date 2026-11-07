@@ -1,6 +1,6 @@
 # Document register
 
-> Complete documentation inventory: 413 files. New requirements await Owner acceptance.
+> Complete documentation inventory: 605 files. New requirements await Owner acceptance.
 > Status definitions: [document status](document-status.md).
 
 ## Root (5; repository policy / navigation)
@@ -75,7 +75,7 @@
 - [Sonos MCP](../research/sonos-mcp.md)
 - [Apple TV and deep links](../research/apple-tv-and-deep-links.md)
 
-## Scenarios (359 documents; 334 primary scenarios + 23 family READMEs + map + template)
+## Scenarios (551 documents; 514 primary scenarios + 35 family READMEs + map + template)
 
 Developed content maturity is CANONICAL SCENARIO; new content is VISION — NOT YET ARCHITECTED. Neither records Owner acceptance. Family placement is navigation, not architecture or roadmap.
 
@@ -508,5 +508,203 @@ Developed content maturity is CANONICAL SCENARIO; new content is VISION — NOT 
 - [What breaks if this server disappears?](../scenarios/counterfactual-and-planning/what-breaks-if-this-server-disappears.md) — VISION — NOT YET ARCHITECTED.
 - [What knowledge survives if Home Steward disappears?](../scenarios/counterfactual-and-planning/what-knowledge-survives-if-home-steward-disappears.md) — VISION — NOT YET ARCHITECTED.
 
-All 413 files are navigation-linked here, including this register and the root ignore policy. The scenario map preserves the original 10 explicit coverage dispositions; the resource family records its separate 25-question increment as 20 new Vision files and 5 existing-coverage links, without duplicate files.
+
+### Ambient and household intelligence increment
+
+12 new navigation families and 180 new Vision primary files; complete wording/dispositions are in the scenario map. Existing bodies retain their maturity.
+
+- [Ambient Awareness and Meaningful Change family README](../scenarios/ambient-awareness-and-meaningful-change/README.md) — navigation and scenario-capture guidance only.
+- [Notice recurring failures before they become something we repeatedly complain about.](../scenarios/ambient-awareness-and-meaningful-change/notice-recurring-failures-before-they-become-something-we-repeatedly-complain-about.md) — VISION — NOT YET ARCHITECTED.
+- [Notice when a prior pattern appears to be becoming more frequent.](../scenarios/ambient-awareness-and-meaningful-change/notice-when-a-prior-pattern-appears-to-be-becoming-more-frequent.md) — VISION — NOT YET ARCHITECTED.
+- [Notice when an important household system begins consuming materially more resources.](../scenarios/ambient-awareness-and-meaningful-change/notice-when-an-important-household-system-begins-consuming-materially-more-resources.md) — VISION — NOT YET ARCHITECTED.
+- [Notice when custody-related evidence is missing before return.](../scenarios/ambient-awareness-and-meaningful-change/notice-when-custody-related-evidence-is-missing-before-return.md) — VISION — NOT YET ARCHITECTED.
+- [Notice when the Home has started requiring more intervention than it used to.](../scenarios/ambient-awareness-and-meaningful-change/notice-when-the-home-has-started-requiring-more-intervention-than-it-used-to.md) — VISION — NOT YET ARCHITECTED.
+- [Notice when upcoming Asset care requires preparation.](../scenarios/ambient-awareness-and-meaningful-change/notice-when-upcoming-asset-care-requires-preparation.md) — VISION — NOT YET ARCHITECTED.
+- [Notice when we're repeatedly overriding the same Home decision.](../scenarios/ambient-awareness-and-meaningful-change/notice-when-we-re-repeatedly-overriding-the-same-home-decision.md) — VISION — NOT YET ARCHITECTED.
+- [Tell me when something in the Home begins behaving materially differently.](../scenarios/ambient-awareness-and-meaningful-change/tell-me-when-something-in-the-home-begins-behaving-materially-differently.md) — VISION — NOT YET ARCHITECTED.
+- [Tell us when a condition record may deserve professional review.](../scenarios/ambient-awareness-and-meaningful-change/tell-us-when-a-condition-record-may-deserve-professional-review.md) — VISION — NOT YET ARCHITECTED.
+- [Tell us when a previously rare event becomes common.](../scenarios/ambient-awareness-and-meaningful-change/tell-us-when-a-previously-rare-event-becomes-common.md) — VISION — NOT YET ARCHITECTED.
+- [Tell us when a workaround appears to have become normal household behavior.](../scenarios/ambient-awareness-and-meaningful-change/tell-us-when-a-workaround-appears-to-have-become-normal-household-behavior.md) — VISION — NOT YET ARCHITECTED.
+- [Tell us when an Asset's environment begins changing materially.](../scenarios/ambient-awareness-and-meaningful-change/tell-us-when-an-asset-s-environment-begins-changing-materially.md) — VISION — NOT YET ARCHITECTED.
+- [Tell us when an expected behavior quietly stops happening.](../scenarios/ambient-awareness-and-meaningful-change/tell-us-when-an-expected-behavior-quietly-stops-happening.md) — VISION — NOT YET ARCHITECTED.
+- [Tell us when an off-site Asset lacks expected environmental or condition evidence.](../scenarios/ambient-awareness-and-meaningful-change/tell-us-when-an-off-site-asset-lacks-expected-environmental-or-condition-evidence.md) — VISION — NOT YET ARCHITECTED.
+- [Tell us when important Asset evidence appears incomplete.](../scenarios/ambient-awareness-and-meaningful-change/tell-us-when-important-asset-evidence-appears-incomplete.md) — VISION — NOT YET ARCHITECTED.
+- [Tell us when multiple small changes appear to form a larger pattern.](../scenarios/ambient-awareness-and-meaningful-change/tell-us-when-multiple-small-changes-appear-to-form-a-larger-pattern.md) — VISION — NOT YET ARCHITECTED.
+- [Tell us when something changes enough that the previous household assumption may deserve review.](../scenarios/ambient-awareness-and-meaningful-change/tell-us-when-something-changes-enough-that-the-previous-household-assumption-may-deserve-review.md) — VISION — NOT YET ARCHITECTED.
+- [What appears newly important today?](../scenarios/ambient-awareness-and-meaningful-change/what-appears-newly-important-today.md) — VISION — NOT YET ARCHITECTED.
+- [What changed that nobody explicitly asked about?](../scenarios/ambient-awareness-and-meaningful-change/what-changed-that-nobody-explicitly-asked-about.md) — VISION — NOT YET ARCHITECTED.
+- [What have you noticed that deserves understanding but not action?](../scenarios/ambient-awareness-and-meaningful-change/what-have-you-noticed-that-deserves-understanding-but-not-action.md) — VISION — NOT YET ARCHITECTED.
+- [Evidence Review and Challenge family README](../scenarios/evidence-review-and-challenge/README.md) — navigation and scenario-capture guidance only.
+- [Correct this candidate relationship.](../scenarios/evidence-review-and-challenge/correct-this-candidate-relationship.md) — VISION — NOT YET ARCHITECTED.
+- [Correct this conclusion.](../scenarios/evidence-review-and-challenge/correct-this-conclusion.md) — VISION — NOT YET ARCHITECTED.
+- [Do not generalize this correction beyond this event.](../scenarios/evidence-review-and-challenge/do-not-generalize-this-correction-beyond-this-event.md) — VISION — NOT YET ARCHITECTED.
+- [Do not use this source for this purpose again.](../scenarios/evidence-review-and-challenge/do-not-use-this-source-for-this-purpose-again.md) — VISION — NOT YET ARCHITECTED.
+- [Does this correction change authoritative HTBW Truth, or only Home Steward's derived knowledge?](../scenarios/evidence-review-and-challenge/does-this-correction-change-authoritative-htbw-truth-or-only-home-steward-s-derived-knowledge.md) — VISION — NOT YET ARCHITECTED.
+- [Forget the incorrect derived association.](../scenarios/evidence-review-and-challenge/forget-the-incorrect-derived-association.md) — VISION — NOT YET ARCHITECTED.
+- [No, those are the other person's AirPods.](../scenarios/evidence-review-and-challenge/no-those-are-the-other-person-s-airpods.md) — VISION — NOT YET ARCHITECTED.
+- [Show me competing interpretations.](../scenarios/evidence-review-and-challenge/show-me-competing-interpretations.md) — VISION — NOT YET ARCHITECTED.
+- [Show me the evidence behind that conclusion.](../scenarios/evidence-review-and-challenge/show-me-the-evidence-behind-that-conclusion.md) — VISION — NOT YET ARCHITECTED.
+- [Show me which conclusions were affected by this correction.](../scenarios/evidence-review-and-challenge/show-me-which-conclusions-were-affected-by-this-correction.md) — VISION — NOT YET ARCHITECTED.
+- [That isn't the person you inferred.](../scenarios/evidence-review-and-challenge/that-isn-t-the-person-you-inferred.md) — VISION — NOT YET ARCHITECTED.
+- [Was the source evidence deleted or only the conclusion corrected?](../scenarios/evidence-review-and-challenge/was-the-source-evidence-deleted-or-only-the-conclusion-corrected.md) — VISION — NOT YET ARCHITECTED.
+- [What changes if this source is removed?](../scenarios/evidence-review-and-challenge/what-changes-if-this-source-is-removed.md) — VISION — NOT YET ARCHITECTED.
+- [What evidence did you reject?](../scenarios/evidence-review-and-challenge/what-evidence-did-you-reject.md) — VISION — NOT YET ARCHITECTED.
+- [What was inferred?](../scenarios/evidence-review-and-challenge/what-was-inferred.md) — VISION — NOT YET ARCHITECTED.
+- [What was observed?](../scenarios/evidence-review-and-challenge/what-was-observed.md) — VISION — NOT YET ARCHITECTED.
+- [Which evidence is stale?](../scenarios/evidence-review-and-challenge/which-evidence-is-stale.md) — VISION — NOT YET ARCHITECTED.
+- [Which person authorized each source?](../scenarios/evidence-review-and-challenge/which-person-authorized-each-source.md) — VISION — NOT YET ARCHITECTED.
+- [Which source contributed most?](../scenarios/evidence-review-and-challenge/which-source-contributed-most.md) — VISION — NOT YET ARCHITECTED.
+- [Which sources contributed?](../scenarios/evidence-review-and-challenge/which-sources-contributed.md) — VISION — NOT YET ARCHITECTED.
+- [Who is allowed to correct a shared household fact?](../scenarios/evidence-review-and-challenge/who-is-allowed-to-correct-a-shared-household-fact.md) — VISION — NOT YET ARCHITECTED.
+- [Home Steward Operations and Self-Stewardship family README](../scenarios/home-steward-operations-and-self-stewardship/README.md) — navigation and scenario-capture guidance only.
+- [Are backups current?](../scenarios/home-steward-operations-and-self-stewardship/are-backups-current.md) — VISION — NOT YET ARCHITECTED.
+- [Can another household steward recover the system without vendor assistance?](../scenarios/home-steward-operations-and-self-stewardship/can-another-household-steward-recover-the-system-without-vendor-assistance.md) — VISION — NOT YET ARCHITECTED.
+- [Can Home Steward operate without the vendor?](../scenarios/home-steward-operations-and-self-stewardship/can-home-steward-operate-without-the-vendor.md) — VISION — NOT YET ARCHITECTED.
+- [Could a replacement private-AI platform reconstruct Home Steward from governed sources and configuration?](../scenarios/home-steward-operations-and-self-stewardship/could-a-replacement-private-ai-platform-reconstruct-home-steward-from-governed-sources-and-configuration.md) — VISION — NOT YET ARCHITECTED.
+- [Did a model update materially change answer quality?](../scenarios/home-steward-operations-and-self-stewardship/did-a-model-update-materially-change-answer-quality.md) — VISION — NOT YET ARCHITECTED.
+- [Is Home Steward healthy?](../scenarios/home-steward-operations-and-self-stewardship/is-home-steward-healthy.md) — VISION — NOT YET ARCHITECTED.
+- [Is storage approaching capacity?](../scenarios/home-steward-operations-and-self-stewardship/is-storage-approaching-capacity.md) — VISION — NOT YET ARCHITECTED.
+- [Is the household knowledge index current?](../scenarios/home-steward-operations-and-self-stewardship/is-the-household-knowledge-index-current.md) — VISION — NOT YET ARCHITECTED.
+- [What changed after the last Home Steward platform update?](../scenarios/home-steward-operations-and-self-stewardship/what-changed-after-the-last-home-steward-platform-update.md) — VISION — NOT YET ARCHITECTED.
+- [What information must be preserved before replacing the appliance?](../scenarios/home-steward-operations-and-self-stewardship/what-information-must-be-preserved-before-replacing-the-appliance.md) — VISION — NOT YET ARCHITECTED.
+- [Which household capabilities currently depend on Home Steward?](../scenarios/home-steward-operations-and-self-stewardship/which-household-capabilities-currently-depend-on-home-steward.md) — VISION — NOT YET ARCHITECTED.
+- [Which models are installed?](../scenarios/home-steward-operations-and-self-stewardship/which-models-are-installed.md) — VISION — NOT YET ARCHITECTED.
+- [Which sources failed to refresh?](../scenarios/home-steward-operations-and-self-stewardship/which-sources-failed-to-refresh.md) — VISION — NOT YET ARCHITECTED.
+- [Household Knowledge Review family README](../scenarios/household-knowledge-review/README.md) — navigation and scenario-capture guidance only.
+- [What changed in an authorized source?](../scenarios/household-knowledge-review/what-changed-in-an-authorized-source.md) — VISION — NOT YET ARCHITECTED.
+- [What evidence conflicts with existing records?](../scenarios/household-knowledge-review/what-evidence-conflicts-with-existing-records.md) — VISION — NOT YET ARCHITECTED.
+- [What newly authorized household information needs review?](../scenarios/household-knowledge-review/what-newly-authorized-household-information-needs-review.md) — VISION — NOT YET ARCHITECTED.
+- [Which candidate relationships require household confirmation?](../scenarios/household-knowledge-review/which-candidate-relationships-require-household-confirmation.md) — VISION — NOT YET ARCHITECTED.
+- [Which derived conclusions need review?](../scenarios/household-knowledge-review/which-derived-conclusions-need-review.md) — VISION — NOT YET ARCHITECTED.
+- [Which information cannot safely be classified?](../scenarios/household-knowledge-review/which-information-cannot-safely-be-classified.md) — VISION — NOT YET ARCHITECTED.
+- [Which new documents appear relevant to existing Assets?](../scenarios/household-knowledge-review/which-new-documents-appear-relevant-to-existing-assets.md) — VISION — NOT YET ARCHITECTED.
+- [Which records should be associated?](../scenarios/household-knowledge-review/which-records-should-be-associated.md) — VISION — NOT YET ARCHITECTED.
+- [Which records should be corrected?](../scenarios/household-knowledge-review/which-records-should-be-corrected.md) — VISION — NOT YET ARCHITECTED.
+- [Which should be rejected?](../scenarios/household-knowledge-review/which-should-be-rejected.md) — VISION — NOT YET ARCHITECTED.
+- [Local Intelligence Personalization family README](../scenarios/local-intelligence-personalization/README.md) — navigation and scenario-capture guidance only.
+- [Can it become better at the types of questions this household asks?](../scenarios/local-intelligence-personalization/can-it-become-better-at-the-types-of-questions-this-household-asks.md) — VISION — NOT YET ARCHITECTED.
+- [Can personalization be corrected?](../scenarios/local-intelligence-personalization/can-personalization-be-corrected.md) — VISION — NOT YET ARCHITECTED.
+- [Can personalization be exported?](../scenarios/local-intelligence-personalization/can-personalization-be-exported.md) — VISION — NOT YET ARCHITECTED.
+- [Can personalization be inspected?](../scenarios/local-intelligence-personalization/can-personalization-be-inspected.md) — VISION — NOT YET ARCHITECTED.
+- [Can personalization be reset?](../scenarios/local-intelligence-personalization/can-personalization-be-reset.md) — VISION — NOT YET ARCHITECTED.
+- [Does Home Steward understand this household's vocabulary?](../scenarios/local-intelligence-personalization/does-home-steward-understand-this-household-s-vocabulary.md) — VISION — NOT YET ARCHITECTED.
+- [Does it understand Asset naming conventions?](../scenarios/local-intelligence-personalization/does-it-understand-asset-naming-conventions.md) — VISION — NOT YET ARCHITECTED.
+- [What happens when the underlying model changes?](../scenarios/local-intelligence-personalization/what-happens-when-the-underlying-model-changes.md) — VISION — NOT YET ARCHITECTED.
+- [What personalization belongs to a person?](../scenarios/local-intelligence-personalization/what-personalization-belongs-to-a-person.md) — VISION — NOT YET ARCHITECTED.
+- [What personalization belongs to the household?](../scenarios/local-intelligence-personalization/what-personalization-belongs-to-the-household.md) — VISION — NOT YET ARCHITECTED.
+- [Multi-Surface Household Interaction family README](../scenarios/multi-surface-household-interaction/README.md) — navigation and scenario-capture guidance only.
+- [Ask Home Steward a question from a room voice assistant.](../scenarios/multi-surface-household-interaction/ask-home-steward-a-question-from-a-room-voice-assistant.md) — VISION — NOT YET ARCHITECTED.
+- [Continue a conversation after moving to another room.](../scenarios/multi-surface-household-interaction/continue-a-conversation-after-moving-to-another-room.md) — VISION — NOT YET ARCHITECTED.
+- [Continue a conversation on a personal phone.](../scenarios/multi-surface-household-interaction/continue-a-conversation-on-a-personal-phone.md) — VISION — NOT YET ARCHITECTED.
+- [Do not display this information on a shared screen.](../scenarios/multi-surface-household-interaction/do-not-display-this-information-on-a-shared-screen.md) — VISION — NOT YET ARCHITECTED.
+- [Give the short answer by voice and supporting detail on screen.](../scenarios/multi-surface-household-interaction/give-the-short-answer-by-voice-and-supporting-detail-on-screen.md) — VISION — NOT YET ARCHITECTED.
+- [Let a person choose among candidates on an appropriate interaction surface.](../scenarios/multi-surface-household-interaction/let-a-person-choose-among-candidates-on-an-appropriate-interaction-surface.md) — VISION — NOT YET ARCHITECTED.
+- [Show media candidates on a suitable visual surface.](../scenarios/multi-surface-household-interaction/show-media-candidates-on-a-suitable-visual-surface.md) — VISION — NOT YET ARCHITECTED.
+- [Show service instructions near the relevant equipment.](../scenarios/multi-surface-household-interaction/show-service-instructions-near-the-relevant-equipment.md) — VISION — NOT YET ARCHITECTED.
+- [Show supporting evidence on the wall kiosk.](../scenarios/multi-surface-household-interaction/show-supporting-evidence-on-the-wall-kiosk.md) — VISION — NOT YET ARCHITECTED.
+- [This answer is private; do not speak it in the room.](../scenarios/multi-surface-household-interaction/this-answer-is-private-do-not-speak-it-in-the-room.md) — VISION — NOT YET ARCHITECTED.
+- [What happens when multiple people are in the room?](../scenarios/multi-surface-household-interaction/what-happens-when-multiple-people-are-in-the-room.md) — VISION — NOT YET ARCHITECTED.
+- [What happens when speaker identity is unresolved?](../scenarios/multi-surface-household-interaction/what-happens-when-speaker-identity-is-unresolved.md) — VISION — NOT YET ARCHITECTED.
+- [Which interaction surface is appropriate for this information?](../scenarios/multi-surface-household-interaction/which-interaction-surface-is-appropriate-for-this-information.md) — VISION — NOT YET ARCHITECTED.
+- [Multimodal Household Knowledge family README](../scenarios/multimodal-household-knowledge/README.md) — navigation and scenario-capture guidance only.
+- [Compare the visible reading with the invoice or service record.](../scenarios/multimodal-household-knowledge/compare-the-visible-reading-with-the-invoice-or-service-record.md) — VISION — NOT YET ARCHITECTED.
+- [Compare this equipment sound with the description from the prior service visit.](../scenarios/multimodal-household-knowledge/compare-this-equipment-sound-with-the-description-from-the-prior-service-visit.md) — VISION — NOT YET ARCHITECTED.
+- [Match this appliance label to the correct manual.](../scenarios/multimodal-household-knowledge/match-this-appliance-label-to-the-correct-manual.md) — VISION — NOT YET ARCHITECTED.
+- [Read this instrument or meter shown in the service photograph.](../scenarios/multimodal-household-knowledge/read-this-instrument-or-meter-shown-in-the-service-photograph.md) — VISION — NOT YET ARCHITECTED.
+- [What evidence across images and documents supports this conclusion?](../scenarios/multimodal-household-knowledge/what-evidence-across-images-and-documents-supports-this-conclusion.md) — VISION — NOT YET ARCHITECTED.
+- [Offline Household Intelligence family README](../scenarios/offline-household-intelligence/README.md) — navigation and scenario-capture guidance only.
+- [Can Home Steward explain when an answer would require information to leave the Home?](../scenarios/offline-household-intelligence/can-home-steward-explain-when-an-answer-would-require-information-to-leave-the-home.md) — VISION — NOT YET ARCHITECTED.
+- [Can the household choose a lower-confidence local-only answer?](../scenarios/offline-household-intelligence/can-the-household-choose-a-lower-confidence-local-only-answer.md) — VISION — NOT YET ARCHITECTED.
+- [What can Home Steward still answer without Internet connectivity?](../scenarios/offline-household-intelligence/what-can-home-steward-still-answer-without-internet-connectivity.md) — VISION — NOT YET ARCHITECTED.
+- [Which external information has already been safely retained locally?](../scenarios/offline-household-intelligence/which-external-information-has-already-been-safely-retained-locally.md) — VISION — NOT YET ARCHITECTED.
+- [Which household questions are fully local?](../scenarios/offline-household-intelligence/which-household-questions-are-fully-local.md) — VISION — NOT YET ARCHITECTED.
+- [Which sources require external access?](../scenarios/offline-household-intelligence/which-sources-require-external-access.md) — VISION — NOT YET ARCHITECTED.
+- [Persistent and Long-Running Inquiry family README](../scenarios/persistent-and-long-running-inquiry/README.md) — navigation and scenario-capture guidance only.
+- [Keep looking for the missing provenance evidence across newly authorized sources.](../scenarios/persistent-and-long-running-inquiry/keep-looking-for-the-missing-provenance-evidence-across-newly-authorized-sources.md) — VISION — NOT YET ARCHITECTED.
+- [Keep researching replacement products until something actually meets our requirements.](../scenarios/persistent-and-long-running-inquiry/keep-researching-replacement-products-until-something-actually-meets-our-requirements.md) — VISION — NOT YET ARCHITECTED.
+- [Maintain the unresolved questions we want answered during the next service visit.](../scenarios/persistent-and-long-running-inquiry/maintain-the-unresolved-questions-we-want-answered-during-the-next-service-visit.md) — VISION — NOT YET ARCHITECTED.
+- [Monitor whether conditions around this Asset return to the accepted pattern.](../scenarios/persistent-and-long-running-inquiry/monitor-whether-conditions-around-this-asset-return-to-the-accepted-pattern.md) — VISION — NOT YET ARCHITECTED.
+- [Tell us if the utility changes the rate plan.](../scenarios/persistent-and-long-running-inquiry/tell-us-if-the-utility-changes-the-rate-plan.md) — VISION — NOT YET ARCHITECTED.
+- [Tell us when sufficient new evidence exists to reconsider this question.](../scenarios/persistent-and-long-running-inquiry/tell-us-when-sufficient-new-evidence-exists-to-reconsider-this-question.md) — VISION — NOT YET ARCHITECTED.
+- [Track an unresolved warranty or service matter and tell us when a response requires attention.](../scenarios/persistent-and-long-running-inquiry/track-an-unresolved-warranty-or-service-matter-and-tell-us-when-a-response-requires-attention.md) — VISION — NOT YET ARCHITECTED.
+- [Track whether this recurring problem improves after the next software update.](../scenarios/persistent-and-long-running-inquiry/track-whether-this-recurring-problem-improves-after-the-next-software-update.md) — VISION — NOT YET ARCHITECTED.
+- [Watch for product end-of-life announcements affecting household technology.](../scenarios/persistent-and-long-running-inquiry/watch-for-product-end-of-life-announcements-affecting-household-technology.md) — VISION — NOT YET ARCHITECTED.
+- [Watch Home Assistant documentation for support for this deferred requirement.](../scenarios/persistent-and-long-running-inquiry/watch-home-assistant-documentation-for-support-for-this-deferred-requirement.md) — VISION — NOT YET ARCHITECTED.
+- [Personal versus Household Intelligence family README](../scenarios/personal-versus-household-intelligence/README.md) — navigation and scenario-capture guidance only.
+- [Can a household conclusion depend on evidence owned by multiple people?](../scenarios/personal-versus-household-intelligence/can-a-household-conclusion-depend-on-evidence-owned-by-multiple-people.md) — VISION — NOT YET ARCHITECTED.
+- [Is this a personal preference or household preference?](../scenarios/personal-versus-household-intelligence/is-this-a-personal-preference-or-household-preference.md) — VISION — NOT YET ARCHITECTED.
+- [One person authorized a source. May it answer another person's question?](../scenarios/personal-versus-household-intelligence/one-person-authorized-a-source-may-it-answer-another-person-s-question.md) — VISION — NOT YET ARCHITECTED.
+- [What happens if one person revokes a source involved in a shared conclusion?](../scenarios/personal-versus-household-intelligence/what-happens-if-one-person-revokes-a-source-involved-in-a-shared-conclusion.md) — VISION — NOT YET ARCHITECTED.
+- [What happens when a person leaves the household?](../scenarios/personal-versus-household-intelligence/what-happens-when-a-person-leaves-the-household.md) — VISION — NOT YET ARCHITECTED.
+- [What happens when two people remember an event differently?](../scenarios/personal-versus-household-intelligence/what-happens-when-two-people-remember-an-event-differently.md) — VISION — NOT YET ARCHITECTED.
+- [When can personal calendar evidence inform a shared Stewardship concern?](../scenarios/personal-versus-household-intelligence/when-can-personal-calendar-evidence-inform-a-shared-stewardship-concern.md) — VISION — NOT YET ARCHITECTED.
+- [Which conclusions are shared?](../scenarios/personal-versus-household-intelligence/which-conclusions-are-shared.md) — VISION — NOT YET ARCHITECTED.
+- [Which conclusions remain person-private?](../scenarios/personal-versus-household-intelligence/which-conclusions-remain-person-private.md) — VISION — NOT YET ARCHITECTED.
+- [Who can correct shared household memory?](../scenarios/personal-versus-household-intelligence/who-can-correct-shared-household-memory.md) — VISION — NOT YET ARCHITECTED.
+- [External research would reveal the nature of the household inquiry to a third party.](../scenarios/security-and-privacy/external-research-would-reveal-the-nature-of-the-household-inquiry-to-a-third-party.md) — VISION — NOT YET ARCHITECTED.
+- [Notice when a previously local capability introduces a new external dependency.](../scenarios/security-and-privacy/notice-when-a-previously-local-capability-introduces-a-new-external-dependency.md) — VISION — NOT YET ARCHITECTED.
+- [Notice when newly available evidence would require more disclosure than before.](../scenarios/security-and-privacy/notice-when-newly-available-evidence-would-require-more-disclosure-than-before.md) — VISION — NOT YET ARCHITECTED.
+- [Tell us when a source's privacy terms or technical behavior materially change.](../scenarios/security-and-privacy/tell-us-when-a-source-s-privacy-terms-or-technical-behavior-materially-change.md) — VISION — NOT YET ARCHITECTED.
+- [Tell us when an authorized integration begins communicating differently.](../scenarios/security-and-privacy/tell-us-when-an-authorized-integration-begins-communicating-differently.md) — VISION — NOT YET ARCHITECTED.
+- [This answer may expose travel absence information.](../scenarios/security-and-privacy/this-answer-may-expose-travel-absence-information.md) — VISION — NOT YET ARCHITECTED.
+- [This answer would combine financial and health information. Continue?](../scenarios/security-and-privacy/this-answer-would-combine-financial-and-health-information-continue.md) — VISION — NOT YET ARCHITECTED.
+- [This caregiver summary may disclose wearable evidence.](../scenarios/security-and-privacy/this-caregiver-summary-may-disclose-wearable-evidence.md) — VISION — NOT YET ARCHITECTED.
+- [This investigation would search private-room visual history.](../scenarios/security-and-privacy/this-investigation-would-search-private-room-visual-history.md) — VISION — NOT YET ARCHITECTED.
+- [This question requires information from two different people's private sources.](../scenarios/security-and-privacy/this-question-requires-information-from-two-different-people-s-private-sources.md) — VISION — NOT YET ARCHITECTED.
+- [Unfiled Household Knowledge family README](../scenarios/unfiled-household-knowledge/README.md) — navigation and scenario-capture guidance only.
+- [What important household information exists only in screenshots?](../scenarios/unfiled-household-knowledge/what-important-household-information-exists-only-in-screenshots.md) — VISION — NOT YET ARCHITECTED.
+- [What information should not be ingested at all?](../scenarios/unfiled-household-knowledge/what-information-should-not-be-ingested-at-all.md) — VISION — NOT YET ARCHITECTED.
+- [Which classifications require household confirmation?](../scenarios/unfiled-household-knowledge/which-classifications-require-household-confirmation.md) — VISION — NOT YET ARCHITECTED.
+- [Which downloaded manuals should be associated with existing Assets?](../scenarios/unfiled-household-knowledge/which-downloaded-manuals-should-be-associated-with-existing-assets.md) — VISION — NOT YET ARCHITECTED.
+- [Which duplicate records disagree?](../scenarios/unfiled-household-knowledge/which-duplicate-records-disagree.md) — VISION — NOT YET ARCHITECTED.
+- [Which files appear to describe the same Asset?](../scenarios/unfiled-household-knowledge/which-files-appear-to-describe-the-same-asset.md) — VISION — NOT YET ARCHITECTED.
+- [Which household documents appear important but are not associated with anything?](../scenarios/unfiled-household-knowledge/which-household-documents-appear-important-but-are-not-associated-with-anything.md) — VISION — NOT YET ARCHITECTED.
+- [Which household notes require human review?](../scenarios/unfiled-household-knowledge/which-household-notes-require-human-review.md) — VISION — NOT YET ARCHITECTED.
+- [Which information can be safely classified?](../scenarios/unfiled-household-knowledge/which-information-can-be-safely-classified.md) — VISION — NOT YET ARCHITECTED.
+- [Which information should remain person-private?](../scenarios/unfiled-household-knowledge/which-information-should-remain-person-private.md) — VISION — NOT YET ARCHITECTED.
+- [Which invoices appear relevant but have not been connected to Stewardship or Asset evidence?](../scenarios/unfiled-household-knowledge/which-invoices-appear-relevant-but-have-not-been-connected-to-stewardship-or-asset-evidence.md) — VISION — NOT YET ARCHITECTED.
+- [Which records have no authoritative source?](../scenarios/unfiled-household-knowledge/which-records-have-no-authoritative-source.md) — VISION — NOT YET ARCHITECTED.
+- [Which records lack Asset relationships?](../scenarios/unfiled-household-knowledge/which-records-lack-asset-relationships.md) — VISION — NOT YET ARCHITECTED.
+- [Which records lack dates?](../scenarios/unfiled-household-knowledge/which-records-lack-dates.md) — VISION — NOT YET ARCHITECTED.
+- [Which records lack source information?](../scenarios/unfiled-household-knowledge/which-records-lack-source-information.md) — VISION — NOT YET ARCHITECTED.
+- [Visual Evidence and Household Observation family README](../scenarios/visual-evidence-and-household-observation/README.md) — navigation and scenario-capture guidance only.
+- [Compare these condition photographs and then remove the working copies.](../scenarios/visual-evidence-and-household-observation/compare-these-condition-photographs-and-then-remove-the-working-copies.md) — VISION — NOT YET ARCHITECTED.
+- [Did the package arrive?](../scenarios/visual-evidence-and-household-observation/did-the-package-arrive.md) — VISION — NOT YET ARCHITECTED.
+- [Do not add people visible in the frame to household memory.](../scenarios/visual-evidence-and-household-observation/do-not-add-people-visible-in-the-frame-to-household-memory.md) — VISION — NOT YET ARCHITECTED.
+- [Does this image show the same condition feature?](../scenarios/visual-evidence-and-household-observation/does-this-image-show-the-same-condition-feature.md) — VISION — NOT YET ARCHITECTED.
+- [Does this serial number match the Asset record?](../scenarios/visual-evidence-and-household-observation/does-this-serial-number-match-the-asset-record.md) — VISION — NOT YET ARCHITECTED.
+- [Has an observed room-to-room pattern changed?](../scenarios/visual-evidence-and-household-observation/has-an-observed-room-to-room-pattern-changed.md) — VISION — NOT YET ARCHITECTED.
+- [How many items appear to have arrived?](../scenarios/visual-evidence-and-household-observation/how-many-items-appear-to-have-arrived.md) — VISION — NOT YET ARCHITECTED.
+- [Is this the same object?](../scenarios/visual-evidence-and-household-observation/is-this-the-same-object.md) — VISION — NOT YET ARCHITECTED.
+- [Read this equipment label without retaining the entire image.](../scenarios/visual-evidence-and-household-observation/read-this-equipment-label-without-retaining-the-entire-image.md) — VISION — NOT YET ARCHITECTED.
+- [Retain a household-confirmed serial number without retaining another copy of the source image.](../scenarios/visual-evidence-and-household-observation/retain-a-household-confirmed-serial-number-without-retaining-another-copy-of-the-source-image.md) — VISION — NOT YET ARCHITECTED.
+- [Retain the conclusion only if the household confirms it.](../scenarios/visual-evidence-and-household-observation/retain-the-conclusion-only-if-the-household-confirms-it.md) — VISION — NOT YET ARCHITECTED.
+- [Use this camera view only to locate an object.](../scenarios/visual-evidence-and-household-observation/use-this-camera-view-only-to-locate-an-object.md) — VISION — NOT YET ARCHITECTED.
+- [Use this document once without adding it to the durable knowledge corpus.](../scenarios/visual-evidence-and-household-observation/use-this-document-once-without-adding-it-to-the-durable-knowledge-corpus.md) — VISION — NOT YET ARCHITECTED.
+- [Use this temporary recording only for this investigation.](../scenarios/visual-evidence-and-household-observation/use-this-temporary-recording-only-for-this-investigation.md) — VISION — NOT YET ARCHITECTED.
+- [Was it moved after delivery?](../scenarios/visual-evidence-and-household-observation/was-it-moved-after-delivery.md) — VISION — NOT YET ARCHITECTED.
+- [Was it still outside when the weather changed?](../scenarios/visual-evidence-and-household-observation/was-it-still-outside-when-the-weather-changed.md) — VISION — NOT YET ARCHITECTED.
+- [Was the Asset moved while the household was away?](../scenarios/visual-evidence-and-household-observation/was-the-asset-moved-while-the-household-was-away.md) — VISION — NOT YET ARCHITECTED.
+- [Was the package ever brought inside?](../scenarios/visual-evidence-and-household-observation/was-the-package-ever-brought-inside.md) — VISION — NOT YET ARCHITECTED.
+- [Was this damage visible beforehand?](../scenarios/visual-evidence-and-household-observation/was-this-damage-visible-beforehand.md) — VISION — NOT YET ARCHITECTED.
+- [Was this equipment returned to its normal location?](../scenarios/visual-evidence-and-household-observation/was-this-equipment-returned-to-its-normal-location.md) — VISION — NOT YET ARCHITECTED.
+- [What did the cameras not see?](../scenarios/visual-evidence-and-household-observation/what-did-the-cameras-not-see.md) — VISION — NOT YET ARCHITECTED.
+- [What happened afterward?](../scenarios/visual-evidence-and-household-observation/what-happened-afterward.md) — VISION — NOT YET ARCHITECTED.
+- [What happened immediately before this event?](../scenarios/visual-evidence-and-household-observation/what-happened-immediately-before-this-event.md) — VISION — NOT YET ARCHITECTED.
+- [What visibly changed during the service visit?](../scenarios/visual-evidence-and-household-observation/what-visibly-changed-during-the-service-visit.md) — VISION — NOT YET ARCHITECTED.
+- [What visual evidence exists after return?](../scenarios/visual-evidence-and-household-observation/what-visual-evidence-exists-after-return.md) — VISION — NOT YET ARCHITECTED.
+- [What visual evidence exists around a pet-monitor event?](../scenarios/visual-evidence-and-household-observation/what-visual-evidence-exists-around-a-pet-monitor-event.md) — VISION — NOT YET ARCHITECTED.
+- [What visual evidence exists from before departure?](../scenarios/visual-evidence-and-household-observation/what-visual-evidence-exists-from-before-departure.md) — VISION — NOT YET ARCHITECTED.
+- [When was the pet last observed in this area?](../scenarios/visual-evidence-and-household-observation/when-was-the-pet-last-observed-in-this-area.md) — VISION — NOT YET ARCHITECTED.
+- [When was this appliance delivered?](../scenarios/visual-evidence-and-household-observation/when-was-this-appliance-delivered.md) — VISION — NOT YET ARCHITECTED.
+- [When was this Asset last observed?](../scenarios/visual-evidence-and-household-observation/when-was-this-asset-last-observed.md) — VISION — NOT YET ARCHITECTED.
+- [When was this Asset visually observed leaving the Home?](../scenarios/visual-evidence-and-household-observation/when-was-this-asset-visually-observed-leaving-the-home.md) — VISION — NOT YET ARCHITECTED.
+- [Where did I leave my glasses?](../scenarios/visual-evidence-and-household-observation/where-did-i-leave-my-glasses.md) — VISION — NOT YET ARCHITECTED.
+- [Where was the pet's leash last observed?](../scenarios/visual-evidence-and-household-observation/where-was-the-pet-s-leash-last-observed.md) — VISION — NOT YET ARCHITECTED.
+- [Where was this object last observed?](../scenarios/visual-evidence-and-household-observation/where-was-this-object-last-observed.md) — VISION — NOT YET ARCHITECTED.
+- [Which Asset appears in this historical photograph?](../scenarios/visual-evidence-and-household-observation/which-asset-appears-in-this-historical-photograph.md) — VISION — NOT YET ARCHITECTED.
+- [Which equipment did the technician appear to access?](../scenarios/visual-evidence-and-household-observation/which-equipment-did-the-technician-appear-to-access.md) — VISION — NOT YET ARCHITECTED.
+- [Which room appears in this older photograph?](../scenarios/visual-evidence-and-household-observation/which-room-appears-in-this-older-photograph.md) — VISION — NOT YET ARCHITECTED.
+
+All 605 files are navigation-linked here, including this register and the root ignore policy. The scenario map preserves the original 10 explicit coverage dispositions; the resource family records its separate 25-question increment as 20 new Vision files and 5 existing-coverage links, without duplicate files. The ambient increment separately records all 217 occurrences: 180 new primaries, 28 existing-coverage occurrences (24 unique targets), and 9 new-primary aliases.
 No runtime file, private source dataset, vendored document or environment artifact belongs in this inventory.
