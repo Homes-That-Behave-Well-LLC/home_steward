@@ -49,3 +49,9 @@ Related outcomes: [Communication and Notification](../communication-and-notifica
 ## Open questions
 
 What evidence resolves a candidate without exposing private history? When does the household want knowledge only rather than an action? Promotion requires [separate governed review](../README.md#promotion); recurring similarities do not establish solution ownership.
+
+## Reference Home coverage cross-links
+
+Existing primary bodies and maturity are unchanged. The following families record explicit requested occurrences covered here; no duplicate scenario or additional source authority is created.
+
+[Multi-Surface Household Interaction](../multi-surface-household-interaction/README.md#reference-home-requested-entry-coverage) | [Navigation-only walkthrough](../reference-home-walkthrough.md).

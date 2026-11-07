@@ -22,7 +22,7 @@ Person/source/purpose/namespace/audience scope, household-controlled locality an
 
 ## Scenarios
 
-Primary files: **0 developed + 9 Vision = 9**. Cross-links below do not add files or change target maturity.
+Primary files: **0 developed + 14 Vision = 14**. Cross-links below do not add files or change target maturity.
 
 ### Developed / Canonical
 
@@ -49,3 +49,44 @@ Related outcomes: [Travel, Absence and Return](../travel-absence-and-return/READ
 ## Open questions
 
 What was actually agreed and by whom? Which preparation is required rather than suggested? Promotion requires [separate governed review](../README.md#promotion); recurring similarities do not establish solution ownership.
+
+## Reference Home discovery increment
+
+Temporary care/accountability is not full private disclosure, credential transfer or delegated authority. Native Communication origination and delivery are distinct; no alert redirection engine is created. Return, handback, acknowledgment, access expiry and Custody Check-In remain separately evidenced and native-owned.
+
+New primary files in this increment: **5**. Each is catalogued only in this primary family. All earlier bodies and maturity remain unchanged.
+
+- [Which problems require prompt household attention?](which-problems-require-prompt-household-attention.md) — **VISION — NOT YET ARCHITECTED**. During temporary stewardship, some recorded concerns may be deferred while others have an already-declared need for prompt attention. The household wants those native care and communication expectations explained without a model inventing urgency or assuming silence means it is safe to wait. A temporary caretaker still receives only information eligible for the particular task.
+- [Who should be contacted for each major household system?](who-should-be-contacted-for-each-major-household-system.md) — **VISION — NOT YET ARCHITECTED**. A temporary steward may know a system needs help without knowing the authorized operator or applicable service relationship. The household wants eligible contact-role information and its purpose understood without exposing personal directories or assuming a service listing authorizes contact. An old relationship may no longer be current.
+- [Which alerts should be redirected during temporary stewardship?](which-alerts-should-be-redirected-during-temporary-stewardship.md) — **VISION — NOT YET ARCHITECTED**. An existing alert may have an intended recipient who is temporarily unavailable. The household wants the separately governed audience and responsibility question understood without silently redirecting every alert or revealing private source content to a caretaker. Changing a recipient can change disclosure even when the underlying care concern is unchanged.
+- [Which temporary responsibilities need an explicit handback when the primary steward returns?](which-temporary-responsibilities-need-an-explicit-handback-when-the-primary-steward-returns.md) — **VISION — NOT YET ARCHITECTED**. The primary steward returning does not automatically resolve temporary accountability, open work or permission expiry. The household wants existing assignments and agreed handback expectations reviewed explicitly without inferring that presence transfers responsibility. A conversation about returning is not an accepted assignment change or Custody closure.
+- [What unresolved matters must be included in a temporary stewardship handoff?](what-unresolved-matters-must-be-included-in-a-temporary-stewardship-handoff.md) — **VISION — NOT YET ARCHITECTED**. A handoff can omit an unresolved service response, uncertain work completion or a care question that someone assumed another person owned. The household wants a minimum eligible account of those matters and their uncertainty, not a new task queue or a disclosure of every private conversation. Recording a question does not assign responsibility or prove it remains current.
+
+## Reference Home requested-entry coverage
+
+Every occurrence retains its requested wording. Coverage links and new-primary aliases do not create additional primaries or change the target's maturity.
+
+| Entry | Requested wording | Primary coverage | Disposition and rationale |
+|---|---|---|---|
+| coordination-1 | What does another household member need to know if I am unavailable for a week? | [What should someone else know if I am unavailable](../resilience-and-recovery/what-should-someone-else-know-if-i-am-unavailable.md) | EXISTING COVERAGE — Existing minimized unavailable-person briefing applies to an explicitly authorized week without new contingency activation. |
+| coordination-2 | Which Home operations currently depend on one person's knowledge? | [Which systems depend on one person's knowledge?](../resilience-and-recovery/which-systems-depend-on-one-person-s-knowledge.md) | EXISTING COVERAGE — Existing evidenced single-Person knowledge-dependency review applies to current Home operations without assuming incapacity. |
+| coordination-3 | What should a housesitter do if Home Assistant is unavailable? | [What still works if Home Assistant is unavailable?](../resilience-and-recovery/what-still-works-if-home-assistant-is-unavailable.md) | EXISTING COVERAGE — Existing controller-outage inquiry explains documented independent/manual operation; housesitter status adds no permission or improvised recovery instruction. |
+| coordination-4 | Which problems may wait? | [Which problems require prompt household attention?](../household-coordination/which-problems-require-prompt-household-attention.md) | NEW PRIMARY ALIAS — One primary explicitly includes this wording variant and its scoped evidence/authority limits; no second file or additional maturity claim. |
+| coordination-5 | Which problems require prompt household attention? | [Which problems require prompt household attention?](../household-coordination/which-problems-require-prompt-household-attention.md) | NEW PRIMARY — No automated triage, medical or emergency judgment, new urgency threshold, waiver or obligation reprioritization is introduced. |
+| coordination-6 | What should never be reset without understanding the consequence? | [Which system should not be reset without understanding its downstream effects?](../resilience-and-recovery/which-system-should-not-be-reset-without-understanding-its-downstream-effects.md) | NEW PRIMARY ALIAS — One primary explicitly includes this wording variant and its scoped evidence/authority limits; no second file or additional maturity claim. |
+| coordination-7 | Which manual controls remain safe to use? | [What can the household still operate manually?](../resilience-and-recovery/what-can-the-household-still-operate-manually.md) | EXISTING COVERAGE — Existing approved manual-operation references preserve manufacturer/professional limits; no new safe-control certification is claimed. |
+| coordination-8 | Who should be contacted for each major household system? | [Who should be contacted for each major household system?](../household-coordination/who-should-be-contacted-for-each-major-household-system.md) | NEW PRIMARY — No contact directory publication, vendor call, message, credential handoff or delegation is performed. Knowing who may help is not authority to disclose records. |
+| coordination-9 | What may a temporary household steward access without seeing private household records? | [Are there sensitive details the housesitter should not receive?](../travel-absence-and-return/are-there-sensitive-details-the-housesitter-should-not-receive.md) | EXISTING COVERAGE — Existing minimum-necessary housesitter disclosure inquiry separates required care instructions from excluded private histories and valuations. |
+| coordination-10 | Which alerts should be redirected during temporary stewardship? | [Which alerts should be redirected during temporary stewardship?](../household-coordination/which-alerts-should-be-redirected-during-temporary-stewardship.md) | NEW PRIMARY — Communication origination and delivery remain native and separate. No notification redirection, recipient-selection engine, routing rule or automatic delivery is introduced. |
+| coordination-11 | What should the Home explain differently to a temporary household steward? | [What should someone else know if I am unavailable](../resilience-and-recovery/what-should-someone-else-know-if-i-am-unavailable.md) | EXISTING COVERAGE — Existing audience-specific Home-care briefing adapts permitted explanation to the beneficiary without granting full private disclosure. |
+| coordination-12 | Which temporary responsibilities need an explicit handback when the primary steward returns? | [Which temporary responsibilities need an explicit handback when the primary steward returns?](../household-coordination/which-temporary-responsibilities-need-an-explicit-handback-when-the-primary-steward-returns.md) | NEW PRIMARY — Return, acknowledgment and accountability change are separate. No assignment mutation, delegation, access extension or automatic handback occurs. |
+| coordination-13 | What unresolved matters must be included in a temporary stewardship handoff? | [What unresolved matters must be included in a temporary stewardship handoff?](../household-coordination/what-unresolved-matters-must-be-included-in-a-temporary-stewardship-handoff.md) | NEW PRIMARY — No handoff engine, new obligation, task assignment, provider contact or automatic delivery is created. Necessary care knowledge does not grant broad private disclosure. |
+
+## Reference Home related outcomes
+
+[Arrival, Entry and Temporary Access](../arrival-entry-and-temporary-access/README.md) | [Resilience and Recovery](../resilience-and-recovery/README.md) | [Guests and Temporary Authority](../guests-and-temporary-authority/README.md) | [Transitions and Succession](../transitions-and-succession/README.md) | [Reference Home walkthrough](../reference-home-walkthrough.md).
+
+## Reference Home future questions
+
+- **OPEN ARCHITECTURAL QUESTION:** What independently eligible source/context and responsible owner review could support these questions without changing native authority?
+- **OPEN ARCHITECTURAL QUESTION:** What actual evidence, scope and separate governance would be required before any mechanism or promotion could be considered?

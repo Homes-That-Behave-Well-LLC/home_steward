@@ -24,7 +24,7 @@ All future source eligibility, meaningful-change review, retention, correction, 
 
 ## Primary scenarios
 
-Primary files: **0 developed + 21 Vision = 21**. Existing coverage and aliases do not add primary files or change target maturity.
+Primary files: **0 developed + 23 Vision = 23**. Existing coverage and aliases do not add primary files or change target maturity.
 
 - [Show me the evidence behind that conclusion.](show-me-the-evidence-behind-that-conclusion.md) — **VISION — NOT YET ARCHITECTED**. A convincing conclusion is difficult to trust without knowing its attributable support. The household wants inspectable eligible evidence and stated limits, not an invented model rationale or disclosure of protected documents merely because they helped produce a previously permitted answer.
 - [Which sources contributed?](which-sources-contributed.md) — **VISION — NOT YET ARCHITECTED**. Several sources may be mentioned in an answer without each supporting its main claim. The household wants actual attributable contributions distinguished from background context and unused material, so a long citation list does not create an illusion of independent corroboration.
@@ -79,3 +79,42 @@ Primary files: **0 developed + 21 Vision = 21**. Existing coverage and aliases d
 ## Future questions
 
 **OPEN ARCHITECTURAL QUESTION:** How could the household inspect this bounded experience, its evidence gaps and source lifecycle without assigning new authority or selecting a mechanism? Promotion requires [separate governed review](../README.md#promotion). Issue #1 remains OPEN; this increment awaits Owner acceptance and does not resolve the separate publication-alignment disposition.
+
+## Reference Home discovery increment
+
+Corrections to Office/Den input, speaker/output, Asset placement, manual model or a visual candidate do not silently alter Foundation or Truth. One event, media choice or artwork-related override does not become a preference. Recognized guests can retain guest-level authority under native consent; no encounter creates enrollment. Report scope is not authority to edit or retain; no propagation graph, learning or memory-mutation mechanism is introduced.
+
+New primary files in this increment: **2**. Each is catalogued only in this primary family. All earlier bodies and maturity remain unchanged.
+
+- [This guest should not become a recognized household person.](this-guest-should-not-become-a-recognized-household-person.md) — **VISION — NOT YET ARCHITECTED**. A temporary guest can interact successfully without consenting to durable recognition or becoming a household participant. The household wants that stated limit respected rather than an encounter silently creating Identity enrollment, residence or future authority. Conversely, legitimately consented recognition does not require resident privileges; recognition and guest-level permissions can coexist under native governance.
+- [Should this correction apply only to this event, this room, this person, or the household?](should-this-correction-apply-only-to-this-event-this-room-this-person-or-the-household.md) — **VISION — NOT YET ARCHITECTED**. A correction may describe one event, a Room relationship, a Person's intent or a genuinely household-scoped claim. The household wants the contributor's intended scope and authority distinguished before the report influences another answer. A broad wording choice cannot authorize changes to other people's sources, native preferences or shared Truth.
+
+## Reference Home requested-entry coverage
+
+Every occurrence retains its requested wording. Coverage links and new-primary aliases do not create additional primaries or change the target's maturity.
+
+| Entry | Requested wording | Primary coverage | Disposition and rationale |
+|---|---|---|---|
+| correction-1 | No, this is now the Office voice endpoint, not the Den endpoint. | [Correct this candidate relationship.](../evidence-review-and-challenge/correct-this-candidate-relationship.md) | EXISTING COVERAGE — Existing scoped candidate correction preserves independently configured input ownership; an Office/Den report does not edit Foundation. |
+| correction-2 | That speaker belongs to this room. | [Correct this candidate relationship.](../evidence-review-and-challenge/correct-this-candidate-relationship.md) | EXISTING COVERAGE — Existing candidate correction applies independently to speaker/output assignment without coupling it to microphone context. |
+| correction-3 | This Asset has permanently moved. | [Correct this candidate relationship.](../evidence-review-and-challenge/correct-this-candidate-relationship.md) | EXISTING COVERAGE — Existing candidate correction distinguishes the attributed permanent-move report from accepted Foundation relationships and qualified current Truth. |
+| correction-4 | That manual belongs to a different model. | [Correct this candidate relationship.](../evidence-review-and-challenge/correct-this-candidate-relationship.md) | EXISTING COVERAGE — Existing candidate association correction separates the wrong manual/model link from its accurate source document. |
+| correction-5 | This behavior was a one-time exception, not a preference. | [Do not generalize this correction beyond this event.](../evidence-review-and-challenge/do-not-generalize-this-correction-beyond-this-event.md) | EXISTING COVERAGE — Existing event-scoped correction explicitly prohibits automatic preference generalization or model learning. |
+| correction-6 | Do not infer that media choice as a household preference. | [Do not generalize this correction beyond this event.](../evidence-review-and-challenge/do-not-generalize-this-correction-beyond-this-event.md) | EXISTING COVERAGE — Existing event-scoped non-generalization applies to a media choice without promoting Person intent into household preference. |
+| correction-7 | This guest should not become a recognized household person. | [This guest should not become a recognized household person.](../evidence-review-and-challenge/this-guest-should-not-become-a-recognized-household-person.md) | NEW PRIMARY — No Identity assertion, enrollment, voiceprint, participant record or permission is created or changed. Configured fallback defaults do not identify the unknown visitor. |
+| correction-8 | That override was intentional because of the artwork, not comfort. | [Do not generalize this correction beyond this event.](../evidence-review-and-challenge/do-not-generalize-this-correction-beyond-this-event.md) | EXISTING COVERAGE — Existing event-scoped correction preserves the attributed artwork-care reason without generalizing a comfort preference or editing care. |
+| correction-9 | The camera identified the wrong object. | [Correct this candidate relationship.](../evidence-review-and-challenge/correct-this-candidate-relationship.md) | EXISTING COVERAGE — Existing candidate correction applies to the wrong object match; no camera guess becomes an authoritative Asset or Identity assertion. |
+| correction-10 | Show me which conclusions depended on that incorrect relationship. | [Show me which conclusions were affected by this correction.](../evidence-review-and-challenge/show-me-which-conclusions-were-affected-by-this-correction.md) | EXISTING COVERAGE — Existing attributable conclusion-lineage review distinguishes affected derivations from untouched sources without a propagation graph. |
+| correction-11 | Correct the candidate relationship but do not alter HTBW Truth. | [Does this correction change authoritative HTBW Truth, or only Home Steward's derived knowledge?](../evidence-review-and-challenge/does-this-correction-change-authoritative-htbw-truth-or-only-home-steward-s-derived-knowledge.md) | EXISTING COVERAGE — Existing authoritative-Truth-versus-derived-knowledge primary explicitly prohibits silent native Fact and relationship edits. |
+| correction-12 | Which household member is authorized to confirm this correction? | [Who is allowed to correct a shared household fact?](../evidence-review-and-challenge/who-is-allowed-to-correct-a-shared-household-fact.md) | EXISTING COVERAGE — Existing responsible-owner correction inquiry distinguishes who may propose from who may accept under current permission. |
+| correction-13 | Should this correction apply only to this event, this room, this person, or the household? | [Should this correction apply only to this event, this room, this person, or the household?](../evidence-review-and-challenge/should-this-correction-apply-only-to-this-event-this-room-this-person-or-the-household.md) | NEW PRIMARY — Scope of a report is not authority to mutate records or learn preferences. No silent Truth, Foundation, consent, preference or durable-memory change occurs. |
+| correction-14 | What derived knowledge should be revised or forgotten? | [Forget the incorrect derived association.](../evidence-review-and-challenge/forget-the-incorrect-derived-association.md) | EXISTING COVERAGE — Existing source-bound derived-association non-use/forgetting inquiry avoids deleting originals or retaining a hidden substitute. |
+
+## Reference Home related outcomes
+
+[Commissioning, Configuration and Acceptance](../commissioning-configuration-and-acceptance/README.md) | [Situated and Deictic Household Questions](../situated-and-deictic-household-questions/README.md) | [Personal versus Household Intelligence](../personal-versus-household-intelligence/README.md) | [Household Knowledge Review](../household-knowledge-review/README.md) | [Reference Home walkthrough](../reference-home-walkthrough.md).
+
+## Reference Home future questions
+
+- **OPEN ARCHITECTURAL QUESTION:** What independently eligible source/context and responsible owner review could support these questions without changing native authority?
+- **OPEN ARCHITECTURAL QUESTION:** What actual evidence, scope and separate governance would be required before any mechanism or promotion could be considered?

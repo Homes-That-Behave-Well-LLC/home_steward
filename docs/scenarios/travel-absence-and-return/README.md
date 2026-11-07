@@ -48,3 +48,9 @@ Related outcomes: [Household Coordination](../household-coordination/README.md) 
 ## Open questions
 
 Which absence interval and participants are in scope? What differs between current attention and an absence-period concern? Promotion requires [separate governed review](../README.md#promotion); recurring similarities do not establish solution ownership.
+
+## Reference Home coverage cross-links
+
+Existing primary bodies and maturity are unchanged. The following families record explicit requested occurrences covered here; no duplicate scenario or additional source authority is created.
+
+[Arrival, Entry and Temporary Access](../arrival-entry-and-temporary-access/README.md#reference-home-requested-entry-coverage) | [Household Coordination](../household-coordination/README.md#reference-home-requested-entry-coverage) | [Situated and Deictic Household Questions](../situated-and-deictic-household-questions/README.md#reference-home-requested-entry-coverage) | [Navigation-only walkthrough](../reference-home-walkthrough.md).

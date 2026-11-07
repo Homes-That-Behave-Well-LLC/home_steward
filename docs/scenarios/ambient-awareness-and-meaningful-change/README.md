@@ -97,3 +97,9 @@ Primary files: **0 developed + 20 Vision = 20**. Existing coverage and aliases d
 ## Future questions
 
 **OPEN ARCHITECTURAL QUESTION:** How could the household inspect this bounded experience, its evidence gaps and source lifecycle without assigning new authority or selecting a mechanism? Promotion requires [separate governed review](../README.md#promotion). Issue #1 remains OPEN; this increment awaits Owner acceptance and does not resolve the separate publication-alignment disposition.
+
+## Reference Home coverage cross-links
+
+Existing primary bodies and maturity are unchanged. The following families record explicit requested occurrences covered here; no duplicate scenario or additional source authority is created.
+
+[Commissioning, Configuration and Acceptance](../commissioning-configuration-and-acceptance/README.md#reference-home-requested-entry-coverage) | [Navigation-only walkthrough](../reference-home-walkthrough.md).

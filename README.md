@@ -147,6 +147,14 @@ review, evidence challenge, Person-versus-household boundaries, ephemeral eviden
 correction, local personalization, offline intelligence, multiple interaction surfaces and
 stewardship of Home Steward itself. These remain Vision questions, not implemented mechanisms.
 
+### Reference Home discovery
+
+The [Reference Home walkthrough](docs/scenarios/reference-home-walkthrough.md) uses household spaces,
+visits, care and outages as scenario-discovery perspectives. It links existing coverage and new
+Vision questions about arrival, Room capabilities, situated references, commissioning, dependencies,
+temporary stewardship and lived evidence. It is navigation, not an inventory, BOM, runtime design
+or a claim that Home Steward can access the described systems.
+
 ## What Home Steward does not own
 
 Foundation; Stewardship; Identity; Truth; Continuity; Operational Trust; Concierge; authoritative

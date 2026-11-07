@@ -46,3 +46,9 @@ Related outcomes: [Household Coordination](../household-coordination/README.md) 
 ## Open questions
 
 What scope, audience and dates are explicit? What remains denied or unknown even when a practical task is assigned? Promotion requires [separate governed review](../README.md#promotion); recurring similarities do not establish solution ownership.
+
+## Reference Home coverage cross-links
+
+Existing primary bodies and maturity are unchanged. The following families record explicit requested occurrences covered here; no duplicate scenario or additional source authority is created.
+
+[Arrival, Entry and Temporary Access](../arrival-entry-and-temporary-access/README.md#reference-home-requested-entry-coverage) | [Multi-Surface Household Interaction](../multi-surface-household-interaction/README.md#reference-home-requested-entry-coverage) | [Navigation-only walkthrough](../reference-home-walkthrough.md).

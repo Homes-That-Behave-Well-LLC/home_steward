@@ -72,3 +72,9 @@ Combination and disclosure require independent Person/source/purpose/namespace/a
 ## Open questions
 
 Who may ask and receive the answer? Can the concern be explained without retrieving or revealing protected content? Promotion requires [separate governed review](../README.md#promotion); recurring similarities do not establish solution ownership.
+
+## Reference Home coverage cross-links
+
+Existing primary bodies and maturity are unchanged. The following families record explicit requested occurrences covered here; no duplicate scenario or additional source authority is created.
+
+[Counterfactual and Planning](../counterfactual-and-planning/README.md#reference-home-requested-entry-coverage) | [Navigation-only walkthrough](../reference-home-walkthrough.md).

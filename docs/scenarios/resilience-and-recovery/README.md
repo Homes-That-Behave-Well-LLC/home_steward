@@ -22,7 +22,7 @@ Person/source/purpose/namespace/audience scope, household-controlled locality an
 
 ## Scenarios
 
-Primary files: **1 developed + 14 Vision = 15**. Cross-links below do not add files or change target maturity.
+Primary files: **1 developed + 17 Vision = 18**. Cross-links below do not add files or change target maturity.
 
 ### Developed / Canonical
 
@@ -54,3 +54,41 @@ Related outcomes: [Counterfactual and Planning](../counterfactual-and-planning/R
 ## Open questions
 
 What is documented versus independently demonstrated? What is unavailable, safely stopped or unknown rather than successfully recovered? Promotion requires [separate governed review](../README.md#promotion); recurring similarities do not establish solution ownership.
+
+## Reference Home discovery increment
+
+Documented, tested, currently qualified and unexercised fallback evidence differ. Existing recovery order and manual-control scenarios are reused. No failure test, reset, controller operation, recovery guarantee or LLM-dependent safety is introduced; source uncertainty remains explicit.
+
+New primary files in this increment: **3**. Each is catalogued only in this primary family. All earlier bodies and maturity remain unchanged.
+
+- [What remains operational when the network controller is unavailable?](what-remains-operational-when-the-network-controller-is-unavailable.md) — **VISION — NOT YET ARCHITECTED**. Network-controller loss may affect administration, discovery or forwarding differently depending on the installed system and conditions. The household wants those documented distinctions and observed outcomes understood without assuming the network either entirely stops or entirely continues. An unavailable management screen is not a complete household outage.
+- [Which system should not be reset without understanding its downstream effects?](which-system-should-not-be-reset-without-understanding-its-downstream-effects.md) — **VISION — NOT YET ARCHITECTED**. Resetting a seemingly isolated system can interrupt downstream services, erase useful evidence or make a care task harder. The household wants existing restrictions and documented consequences understood before anyone attempts a reset. Unknown downstream effects are a reason for qualified review, not confidence that restarting is harmless.
+- [Does recovery require external vendor support?](does-recovery-require-external-vendor-support.md) — **VISION — NOT YET ARCHITECTED**. A recovery document can omit that a vendor, account administrator or support service must participate. The household wants that declared dependency and its limits understood before assuming local equipment can be restored independently. Availability of external support is not guaranteed by a subscription or a past successful recovery.
+
+## Reference Home requested-entry coverage
+
+Every occurrence retains its requested wording. Coverage links and new-primary aliases do not create additional primaries or change the target's maturity.
+
+| Entry | Requested wording | Primary coverage | Disposition and rationale |
+|---|---|---|---|
+| resilience-1 | What should the household recover first after this dependency fails? | [What should we recover first after an extended outage?](../resilience-and-recovery/what-should-we-recover-first-after-an-extended-outage.md) | EXISTING COVERAGE — Existing recovery-prerequisite and household-declared-priority review applies after this failure without creating a rescue order. |
+| resilience-2 | Which experiences have a tested manual fallback? | [Which manual fallbacks have never been tested?](../commissioning-configuration-and-acceptance/which-manual-fallbacks-have-never-been-tested.md) | NEW PRIMARY ALIAS — One primary explicitly includes this wording variant and its scoped evidence/authority limits; no second file or additional maturity claim. |
+| resilience-3 | Which manual fallbacks exist only in documentation? | [Which manual fallbacks have never been tested?](../commissioning-configuration-and-acceptance/which-manual-fallbacks-have-never-been-tested.md) | NEW PRIMARY ALIAS — One primary explicitly includes this wording variant and its scoped evidence/authority limits; no second file or additional maturity claim. |
+| resilience-4 | Which fallback procedures have never been exercised? | [Which manual fallbacks have never been tested?](../commissioning-configuration-and-acceptance/which-manual-fallbacks-have-never-been-tested.md) | NEW PRIMARY ALIAS — One primary explicitly includes this wording variant and its scoped evidence/authority limits; no second file or additional maturity claim. |
+| resilience-5 | Did dual-ISP failover preserve what mattered? | [Did ISP failover preserve the intended household outcome?](../investigation-and-explainability/did-isp-failover-preserve-the-intended-household-outcome.md) | NEW PRIMARY ALIAS — One primary explicitly includes this wording variant and its scoped evidence/authority limits; no second file or additional maturity claim. |
+| resilience-6 | Which local capabilities still depend on vendor authentication? | [What depends on cloud authentication?](../investigation-and-explainability/what-depends-on-cloud-authentication.md) | NEW PRIMARY ALIAS — One primary explicitly includes this wording variant and its scoped evidence/authority limits; no second file or additional maturity claim. |
+| resilience-7 | What remains operational when the private-AI appliance is unavailable? | [What still works if Home Steward is unavailable?](../resilience-and-recovery/what-still-works-if-home-steward-is-unavailable.md) | EXISTING COVERAGE — Existing native-versus-enriched unavailable-Home-Steward boundary applies to loss of its prospective private-AI host without universal guarantees. |
+| resilience-8 | What remains operational when the network controller is unavailable? | [What remains operational when the network controller is unavailable?](../resilience-and-recovery/what-remains-operational-when-the-network-controller-is-unavailable.md) | NEW PRIMARY — No controller-independence guarantee, topology inventory, restart, configuration change or outage test is introduced. |
+| resilience-9 | Which recovery procedure depends on one person's knowledge? | [Which systems depend on one person's knowledge?](../resilience-and-recovery/which-systems-depend-on-one-person-s-knowledge.md) | EXISTING COVERAGE — Existing explicitly evidenced single-Person operating-knowledge gap includes recovery knowledge without profiling or copying private records. |
+| resilience-10 | What should another household steward know before attempting recovery? | [What should someone else know if I am unavailable](../resilience-and-recovery/what-should-someone-else-know-if-i-am-unavailable.md) | EXISTING COVERAGE — Existing minimized beneficiary-specific Home-care briefing includes permitted operating knowledge without credentials or delegation. |
+| resilience-11 | Which system should not be reset without understanding its downstream effects? | [Which system should not be reset without understanding its downstream effects?](../resilience-and-recovery/which-system-should-not-be-reset-without-understanding-its-downstream-effects.md) | NEW PRIMARY — No reset instructions, restart, remediation or permission to act is supplied. Professional and native safety constraints remain independent of Home Steward. |
+| resilience-12 | Does recovery require external vendor support? | [Does recovery require external vendor support?](../resilience-and-recovery/does-recovery-require-external-vendor-support.md) | NEW PRIMARY — No vendor contact, credential disclosure, restore operation or recovery guarantee is introduced. A known support dependency is not platform qualification. |
+
+## Reference Home related outcomes
+
+[Investigation and Explainability](../investigation-and-explainability/README.md) | [Commissioning, Configuration and Acceptance](../commissioning-configuration-and-acceptance/README.md) | [Household Coordination](../household-coordination/README.md) | [Offline Household Intelligence](../offline-household-intelligence/README.md) | [Reference Home walkthrough](../reference-home-walkthrough.md).
+
+## Reference Home future questions
+
+- **OPEN ARCHITECTURAL QUESTION:** What independently eligible source/context and responsible owner review could support these questions without changing native authority?
+- **OPEN ARCHITECTURAL QUESTION:** What actual evidence, scope and separate governance would be required before any mechanism or promotion could be considered?

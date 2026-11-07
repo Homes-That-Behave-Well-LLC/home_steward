@@ -47,3 +47,9 @@ Related outcomes: [Possibility and Improvement](../possibility-and-improvement/R
 ## Open questions
 
 What evidence supports the exact comparison? Are we addressing the household outcome or adding technology and obligations? Promotion requires [separate governed review](../README.md#promotion); recurring similarities do not establish solution ownership.
+
+## Reference Home coverage cross-links
+
+Existing primary bodies and maturity are unchanged. The following families record explicit requested occurrences covered here; no duplicate scenario or additional source authority is created.
+
+[Asset Intelligence](../asset-intelligence/README.md#reference-home-requested-entry-coverage) | [Counterfactual and Planning](../counterfactual-and-planning/README.md#reference-home-requested-entry-coverage) | [Reference Home Evidence and Product Learning](../reference-home-evidence-and-product-learning/README.md#reference-home-requested-entry-coverage) | [Navigation-only walkthrough](../reference-home-walkthrough.md).
