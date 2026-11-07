@@ -126,19 +126,19 @@ remain authoritative; this proposed consumer document does not amend them.
 All thirteen new scenarios apply these rules and the
 [future log-source requirement](governed-source-connections.md#future-governed-ha-logs-and-history).
 
-- [Recurring late behavior](../scenarios/why-has-this-been-happening-lately.md)
-- [Problem onset](../scenarios/when-did-this-problem-start.md)
-- [Meaningful Home changes](../scenarios/what-changed-in-the-home.md)
-- [Reliability trend](../scenarios/is-this-getting-worse.md)
-- [Preference review](../scenarios/why-do-i-keep-overriding-this.md)
-- [Apparently abandoned technology](../scenarios/what-technology-have-we-stopped-using.md)
-- [Recurring technical failures](../scenarios/what-keeps-failing.md)
-- [Related problems](../scenarios/are-these-problems-related.md)
-- [Update comparison](../scenarios/did-the-update-make-things-worse.md)
-- [Early signs of trouble](../scenarios/is-anything-showing-early-signs-of-trouble.md)
-- [Lived-outcome review](../scenarios/did-the-fix-actually-work.md)
-- [Technology friction](../scenarios/what-keeps-making-us-intervene.md)
-- [Evidence limits](../scenarios/what-dont-you-know.md)
+- [Recurring late behavior](../scenarios/investigation-and-explainability/why-has-this-been-happening-lately.md)
+- [Problem onset](../scenarios/investigation-and-explainability/when-did-this-problem-start.md)
+- [Meaningful Home changes](../scenarios/investigation-and-explainability/what-changed-in-the-home.md)
+- [Reliability trend](../scenarios/investigation-and-explainability/is-this-getting-worse.md)
+- [Preference review](../scenarios/investigation-and-explainability/why-do-i-keep-overriding-this.md)
+- [Apparently abandoned technology](../scenarios/investigation-and-explainability/what-technology-have-we-stopped-using.md)
+- [Recurring technical failures](../scenarios/investigation-and-explainability/what-keeps-failing.md)
+- [Related problems](../scenarios/investigation-and-explainability/are-these-problems-related.md)
+- [Update comparison](../scenarios/investigation-and-explainability/did-the-update-make-things-worse.md)
+- [Early signs of trouble](../scenarios/investigation-and-explainability/is-anything-showing-early-signs-of-trouble.md)
+- [Lived-outcome review](../scenarios/investigation-and-explainability/did-the-fix-actually-work.md)
+- [Technology friction](../scenarios/investigation-and-explainability/what-keeps-making-us-intervene.md)
+- [Evidence limits](../scenarios/investigation-and-explainability/what-dont-you-know.md)
 
 ## Possibility and Improvement Discovery
 

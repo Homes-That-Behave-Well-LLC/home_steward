@@ -78,11 +78,11 @@ List unsettled schema/policy/confirmation/connector/evidence questions without s
 
 ## Catalog
 
-Detailed: [painting](tell-me-about-this-painting.md), [appliance](how-do-i-use-this-appliance.md),
-[maintenance](why-is-this-maintenance-due.md), [insurance](is-this-asset-properly-insured.md).
+Detailed: [painting](asset-intelligence/tell-me-about-this-painting.md), [appliance](asset-intelligence/how-do-i-use-this-appliance.md),
+[maintenance](asset-intelligence/why-is-this-maintenance-due.md), [insurance](asset-intelligence/is-this-asset-properly-insured.md).
 
-Additional: [service company](what-did-the-service-company-say.md), [attention](what-needs-my-attention.md),
-[away](what-happened-while-we-were-away.md), [service call](help-me-prepare-for-the-service-call.md),
-[family](which-assets-came-from-my-family.md), [renovation](what-did-we-buy-during-the-renovation.md),
-[artist](what-other-works-do-we-own-by-this-artist.md), [spending](how-much-did-we-spend-maintaining-this.md),
-[unavailable person](what-should-someone-else-know-if-i-am-unavailable.md).
+Additional: [service company](asset-intelligence/what-did-the-service-company-say.md), [attention](asset-intelligence/what-needs-my-attention.md),
+[away](travel-absence-and-return/what-happened-while-we-were-away.md), [service call](asset-intelligence/help-me-prepare-for-the-service-call.md),
+[family](asset-intelligence/which-assets-came-from-my-family.md), [renovation](asset-intelligence/what-did-we-buy-during-the-renovation.md),
+[artist](asset-intelligence/what-other-works-do-we-own-by-this-artist.md), [spending](asset-intelligence/how-much-did-we-spend-maintaining-this.md),
+[unavailable person](resilience-and-recovery/what-should-someone-else-know-if-i-am-unavailable.md).

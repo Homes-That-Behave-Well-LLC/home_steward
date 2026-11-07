@@ -42,6 +42,19 @@ A household should be able to understand its Home and its authorized documents w
 knowledge, relationships or future options under one AI vendor's control. Home Steward adds
 knowledge exploration, not a new authority over the Home or the people in it.
 
+## Scenario-First Development
+
+Home Steward is developed scenario first: preserve household questions, experiences and possibilities
+before choosing their solution.
+
+**SCENARIO -> RECURRING REQUIREMENT -> ARCHITECTURE -> GOVERNED IMPLEMENTATION -> ACCEPTANCE -> LIVED EVIDENCE**
+
+The [scenario-family map](docs/scenarios/README.md) organizes developed scenarios and short-form Vision
+ideas using explicit in-file maturity. Inclusion is **not a roadmap, ownership decision or acceptance**.
+A scenario may be satisfied by HTBW, Home Assistant, Home Steward, a private-AI platform, a specialist,
+a professional, deterministic automation, another governed capability, or no technology at all.
+Architecture and implementation remain separately governed; the catalog does not authorize either.
+
 ## Relationship to the Behaves Well Framework
 
 The [Behaves Well Framework](https://behaveswellframework.com/) remains the common governance
@@ -107,7 +120,7 @@ retirement of custom mechanisms without surrendering HTBW governance.
 Home Steward may help identify media from incomplete descriptions, explore separately authorized
 private and streaming libraries, and clarify titles, artists and availability before any governed
 Home action. Discovery need not imply playback; the execution mechanism remains an open architectural
-question. [Scenario family](docs/governance/document-register.md#entertainment-and-media-discovery).
+question. [Scenario family](docs/scenarios/entertainment-and-media/README.md).
 
 ### Aging in Place and Care Awareness
 
@@ -115,7 +128,7 @@ With explicit person-level authorization, Home Steward may help understand chang
 activity, Home and care-related evidence over time, prepare observation summaries and support
 caregiver conversations. These scenarios are not medical diagnosis, clinical monitoring or emergency
 decision-making; implementation remains open.
-[Scenario family](docs/governance/document-register.md#aging-in-place-and-care-awareness).
+[Scenario family](docs/scenarios/aging-in-place/README.md).
 
 ## What Home Steward does not own
 
@@ -173,27 +186,27 @@ authorized provenance, purchase, conservation, appraisal and insurance evidence;
 research remains external evidence. A possible trip association stays a candidate until attributable,
 authorized confirmation and governed promotion.
 
-[Full ten-turn painting scenario](docs/scenarios/tell-me-about-this-painting.md).
+[Full ten-turn painting scenario](docs/scenarios/asset-intelligence/tell-me-about-this-painting.md).
 
 ## Appliance and manual
 
 HTBW resolves the exact Asset/model and associated manual. Home Steward can interpret authorized
 instructions and service records, while Truth retains current state and Stewardship retains care.
 Scheduling or contacting anyone needs separate authority.
-[Appliance scenario](docs/scenarios/how-do-i-use-this-appliance.md).
+[Appliance scenario](docs/scenarios/asset-intelligence/how-do-i-use-this-appliance.md).
 
 ## Maintenance and Stewardship
 
 HTBW determines why an obligation is due from configured care and eligible evidence. Home Steward
 may explain manufacturer/service guidance or gaps, not silently rewrite a care cycle or mark work done.
-[Maintenance scenario](docs/scenarios/why-is-this-maintenance-due.md).
+[Maintenance scenario](docs/scenarios/asset-intelligence/why-is-this-maintenance-due.md).
 
 ## Insurance and a living inventory
 
 A rider is a dated snapshot. Governed Asset relationships plus authorized document interpretation
 can support a living household-controlled inventory and proposed claim-support package.
 Home Steward cannot bind coverage, change a policy or contact an insurer without authorization.
-[Insurance scenario](docs/scenarios/is-this-asset-properly-insured.md).
+[Insurance scenario](docs/scenarios/asset-intelligence/is-this-asset-properly-insured.md).
 
 ## Relationship Discovery
 
@@ -231,7 +244,7 @@ The Owner initiated a technical inquiry; no private correspondence is published.
 | Governance, decisions and unresolved questions | [Authority](docs/governance/authority-order.md) |
 | Platform requirements and proposed evaluation | [Requirements](docs/platforms/host-platform-requirements.md) |
 | Dated public-source candidate research | [Catalog](docs/research/README.md) |
-| Household boundary tests | [Scenario template](docs/scenarios/scenario-template.md) |
+| Scenario-first household questions and boundary tests | [Scenario-family map](docs/scenarios/README.md) |
 | Complete file/status inventory | [Document register](docs/governance/document-register.md) |
 
 ## Current non-goals

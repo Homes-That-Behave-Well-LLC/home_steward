@@ -25,5 +25,5 @@ changes, source correlation beyond scope, or other unrelated actions.
 Present disputed/incomplete evidence honestly. A candidate must never overwrite Asset identity,
 current Truth location or an existing authoritative provenance relationship.
 
-See [painting conversation](../scenarios/tell-me-about-this-painting.md) and
+See [painting conversation](../scenarios/asset-intelligence/tell-me-about-this-painting.md) and
 [derived lifecycle](derived-knowledge-lifecycle.md).

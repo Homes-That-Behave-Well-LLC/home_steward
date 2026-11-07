@@ -200,12 +200,12 @@ This document records proposed architecture, not Owner acceptance or amendments 
 
 ### HTBW Architecture Stewardship scenario family
 
-- [What HTBW capabilities now exist natively in Home Assistant?](../scenarios/what-htbw-capabilities-now-exist-natively-in-home-assistant.md)
-- [Which HTBW decisions should be reconsidered?](../scenarios/which-htbw-decisions-should-be-reconsidered.md)
-- [Should we implement this open issue as written?](../scenarios/should-we-implement-this-open-issue-as-written.md)
-- [Can we retire this custom HTBW implementation?](../scenarios/can-we-retire-this-custom-htbw-implementation.md)
-- [What Home Assistant changes affect HTBW?](../scenarios/what-home-assistant-changes-affect-htbw.md)
-- [What should HTBW stop owning?](../scenarios/what-should-htbw-stop-owning.md)
-- [What new native capability could simplify HTBW?](../scenarios/what-new-native-capability-could-simplify-htbw.md)
-- [Did Home Assistant create a new obligation for HTBW?](../scenarios/did-home-assistant-create-a-new-obligation-for-htbw.md)
-- [Prepare an HTBW native-capability migration review](../scenarios/prepare-an-htbw-native-capability-migration-review.md)
+- [What HTBW capabilities now exist natively in Home Assistant?](../scenarios/htbw-architecture-stewardship/what-htbw-capabilities-now-exist-natively-in-home-assistant.md)
+- [Which HTBW decisions should be reconsidered?](../scenarios/htbw-architecture-stewardship/which-htbw-decisions-should-be-reconsidered.md)
+- [Should we implement this open issue as written?](../scenarios/htbw-architecture-stewardship/should-we-implement-this-open-issue-as-written.md)
+- [Can we retire this custom HTBW implementation?](../scenarios/htbw-architecture-stewardship/can-we-retire-this-custom-htbw-implementation.md)
+- [What Home Assistant changes affect HTBW?](../scenarios/htbw-architecture-stewardship/what-home-assistant-changes-affect-htbw.md)
+- [What should HTBW stop owning?](../scenarios/htbw-architecture-stewardship/what-should-htbw-stop-owning.md)
+- [What new native capability could simplify HTBW?](../scenarios/htbw-architecture-stewardship/what-new-native-capability-could-simplify-htbw.md)
+- [Did Home Assistant create a new obligation for HTBW?](../scenarios/htbw-architecture-stewardship/did-home-assistant-create-a-new-obligation-for-htbw.md)
+- [Prepare an HTBW native-capability migration review](../scenarios/htbw-architecture-stewardship/prepare-an-htbw-native-capability-migration-review.md)
