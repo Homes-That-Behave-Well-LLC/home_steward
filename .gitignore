@@ -1,0 +1,19 @@
+# This phase tracks documentation only.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.env
+.env.*
+secrets.yaml
+configuration.yaml
+.storage/
+*.db
+*.sqlite*
+models/
+node_modules/
+.DS_Store
+Thumbs.db
