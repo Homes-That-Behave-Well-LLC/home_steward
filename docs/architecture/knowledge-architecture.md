@@ -139,3 +139,17 @@ All thirteen new scenarios apply these rules and the
 - [Lived-outcome review](../scenarios/did-the-fix-actually-work.md)
 - [Technology friction](../scenarios/what-keeps-making-us-intervene.md)
 - [Evidence limits](../scenarios/what-dont-you-know.md)
+
+## Possibility and Improvement Discovery
+
+The [canonical discovery architecture](possibility-and-improvement-discovery.md) groups thirteen
+household opportunity scenarios, the seven-level maturity model and future Home Possibility Review.
+Official capability evidence plus authorized household evidence produces candidates/drafts, not
+automatic implementation, learned policy or a new authoritative Pattern store.
+
+## HTBW Architecture Stewardship
+
+The [related architecture](htbw-architecture-stewardship.md) groups nine architecture-review scenarios.
+Native platform evolution may justify review of implementation mechanisms; it never automatically
+amends an accepted decision or transfers HTBW governance. Both new families inherit the evidence,
+source, history and authority boundaries above; existing scenario families are unchanged.

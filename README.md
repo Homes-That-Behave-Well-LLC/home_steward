@@ -92,6 +92,16 @@ the inquiry: "Has that been happening more often?", "When did it start?", "What 
 remains HTBW's; [cross-source investigation](docs/architecture/knowledge-architecture.md#htbw-explainability-and-home-steward-investigation)
 adds evidence-bounded interpretation, not guessed causes or permission to act.
 
+### Possibility and Improvement Discovery
+
+HTBW governs the Home the household has. Home Steward may help the household understand the Home
+that has become possible by comparing authoritative platform changes with authorized configuration,
+history, requests, friction and deferred ideas. It may recommend; implementation requires separate
+governed authorization. [Architecture and maturity model](docs/architecture/possibility-and-improvement-discovery.md).
+It may also [help steward HTBW itself](docs/architecture/htbw-architecture-stewardship.md), identifying
+where native platform evolution warrants governed reconsideration, simplification, migration or
+retirement of custom mechanisms without surrendering HTBW governance.
+
 ## What Home Steward does not own
 
 Foundation; Stewardship; Identity; Truth; Continuity; Operational Trust; Concierge; authoritative

@@ -76,3 +76,55 @@ Every proposed investigation/action remains subject to current source, Person an
 governance; Home Steward being local does not confer access.
 
 See [investigation evidence rules](knowledge-architecture.md#evidence-and-epistemic-rules).
+
+## Future authoritative technology-capability evidence
+
+**FUTURE GOVERNED SOURCE CATEGORY ONLY; no crawler, feed, release watcher or ingestion.**
+Within existing public/external knowledge, separately approve official HA monthly release notes,
+developer documentation/blog, integration/architecture/breaking-change/deprecation/Labs evidence,
+official Music Assistant documentation/releases and other explicitly approved technical authorities.
+Approval of one domain/source does not admit all related sites or community code.
+
+Each finding carries source authority/citation, version/release, publication date, last reviewed,
+applicable installed version, relevance, stability, GA versus Labs/preview status, deprecation and
+known removal version/date. Undated/unknown fields remain named gaps; stale evidence is not current
+capability. Incomplete official evidence cannot support migration advice.
+
+Community material is inspiration, not authoritative platform proof. External retrieval must not send
+household/repository-sensitive context, logs, requests, credentials or private correspondence.
+Access/retrieval, optional ingestion/indexing, retention, reasoning and disclosure remain separate.
+The inventory remains unchanged; this is not a new accepted authorization taxonomy.
+See the [evidence model](possibility-and-improvement-discovery.md#authoritative-technology-evidence-model).
+
+## Future governed household possibility evidence
+
+Configuration, participation/exclusions, outcomes, obligations, Facts, traces, Repairs, change/deferred
+requirements and explicit wish-list records remain owner-governed. HA logs/history retain the separate
+future relationship above. Voice-request evidence, failed/unfulfilled requests and useful dashboard
+interactions each require separately evaluated capture, source/Person/beneficiary/purpose/field/time,
+retention, retrieval, reasoning and disclosure permissions.
+
+Do not infer access from an existing voice input, HA admin session, device ownership or utility.
+Request evidence is not biometric identity evidence or permission for raw-audio retention; accepted
+biometric locality/consent boundaries remain intact. Minimize/redact sensitive utterance/actor details
+before model exposure; no blanket history capture, Person profile or indefinite request memory.
+Derived candidates inherit source constraints and expiry; raw patterns remain unaccepted, not a store.
+See [household evidence](possibility-and-improvement-discovery.md#authorized-household-evidence-model).
+
+## Future governed architecture-repository evidence
+
+A qualified local private-AI platform may eventually consume approved HTBW, Home Steward and
+Framework documents, accepted decisions/contracts/specifications, scoped issues, implementation
+history and acceptance-review references, plus approved official platform evidence.
+This is future intent, not a qualified host or repository-ingestion permission.
+
+Each repository/source has independent owner, authorized branch/commit/path/file classes, credential
+scope, beneficiary/purpose, locality, retention, retrieval, disclosure and derived lifecycle.
+Exclude credentials/secrets and unapproved private repositories, correspondence and Owner records;
+public visibility is not licensing or blanket correlation permission. Source content is untrusted
+data, never permission to modify code, decisions, issues or policy.
+
+Cite exact version/commit and publication/commit date, review date, installed-version applicability
+and feature GA/Labs/preview/deprecation/removal status. Source freshness cannot be replaced by model
+confidence. No clone/index/crawl, token store, memory engine or migration mechanism is implemented.
+See [architecture stewardship](htbw-architecture-stewardship.md#authoritative-inputs-and-local-knowledge-intent).

@@ -1,6 +1,6 @@
 # Document register
 
-> Complete documentation inventory: 78 files. New requirements await Owner acceptance.
+> Complete documentation inventory: 102 files. New requirements await Owner acceptance.
 > Status definitions: [document status](document-status.md).
 
 ## Root (5; repository policy / navigation)
@@ -11,7 +11,7 @@
 - [CODE_OF_CONDUCT](../../CODE_OF_CONDUCT.md)
 - [.gitignore](../../.gitignore)
 
-## Architecture (14; proposed canonical baseline, with explicit accepted-boundary restatements)
+## Architecture (16; proposed canonical baseline, with explicit accepted-boundary restatements)
 
 - [North Star](../architecture/north-star.md)
 - [Scope and non-goals](../architecture/scope-and-non-goals.md)
@@ -27,6 +27,8 @@
 - [Reasoning and authority](../architecture/reasoning-and-authority-boundary.md)
 - [HTBW integration contract](../architecture/htbw-integration-contract.md)
 - [Private-AI host contract](../architecture/private-ai-host-platform-contract.md)
+- [Possibility and Improvement Discovery](../architecture/possibility-and-improvement-discovery.md)
+- [HTBW Architecture Stewardship](../architecture/htbw-architecture-stewardship.md)
 
 ## Governance (5; proposed governance baseline)
 
@@ -69,7 +71,7 @@
 - [Sonos MCP](../research/sonos-mcp.md)
 - [Apple TV and deep links](../research/apple-tv-and-deep-links.md)
 
-## Scenarios (27; template + 26 synthetic proposed acceptance scenarios)
+## Scenarios (49; template + 48 synthetic proposed acceptance scenarios)
 
 - [Scenario template](../scenarios/scenario-template.md)
 - [Painting](../scenarios/tell-me-about-this-painting.md)
@@ -101,6 +103,34 @@ Investigation extension under bootstrap Issue #1:
 - [Did the fix actually work?](../scenarios/did-the-fix-actually-work.md)
 - [What keeps making us intervene?](../scenarios/what-keeps-making-us-intervene.md)
 - [What don't you know?](../scenarios/what-dont-you-know.md)
+
+### Possibility and Improvement Discovery
+
+- [What is new that matters to our Home?](../scenarios/what-is-new-that-matters-to-our-home.md)
+- [What can the Home do now that it could not before?](../scenarios/what-can-the-home-do-now-that-it-could-not-before.md)
+- [Which previously deferred ideas are now possible?](../scenarios/which-previously-deferred-ideas-are-now-possible.md)
+- [What repetitive actions might represent an unmet outcome?](../scenarios/what-repetitive-actions-might-represent-an-unmet-outcome.md)
+- [What voice requests reveal a missing capability?](../scenarios/what-voice-requests-reveal-a-missing-capability.md)
+- [Which custom automations now have native HA support?](../scenarios/which-custom-automations-now-have-native-ha-support.md)
+- [Which device capabilities are not participating?](../scenarios/which-device-capabilities-are-not-participating.md)
+- [What could improve the Home with the least new obligation?](../scenarios/what-could-improve-the-home-with-the-least-new-obligation.md)
+- [What should we review before the next HA update?](../scenarios/what-should-we-review-before-the-next-ha-update.md)
+- [Did this release create new risk or Technical Debt?](../scenarios/did-this-release-create-new-risk-or-technical-debt.md)
+- [Prepare the monthly Home Possibility Review](../scenarios/prepare-the-monthly-home-possibility-review.md)
+- [What opportunity do our history and current platform suggest?](../scenarios/what-opportunity-do-our-history-and-current-platform-suggest.md)
+- [What public idea is worth testing here?](../scenarios/what-public-idea-is-worth-testing-here.md)
+
+### HTBW Architecture Stewardship
+
+- [What HTBW capabilities now exist natively in Home Assistant?](../scenarios/what-htbw-capabilities-now-exist-natively-in-home-assistant.md)
+- [Which HTBW decisions should be reconsidered?](../scenarios/which-htbw-decisions-should-be-reconsidered.md)
+- [Should we implement this open issue as written?](../scenarios/should-we-implement-this-open-issue-as-written.md)
+- [Can we retire this custom HTBW implementation?](../scenarios/can-we-retire-this-custom-htbw-implementation.md)
+- [What Home Assistant changes affect HTBW?](../scenarios/what-home-assistant-changes-affect-htbw.md)
+- [What should HTBW stop owning?](../scenarios/what-should-htbw-stop-owning.md)
+- [What new native capability could simplify HTBW?](../scenarios/what-new-native-capability-could-simplify-htbw.md)
+- [Did Home Assistant create a new obligation for HTBW?](../scenarios/did-home-assistant-create-a-new-obligation-for-htbw.md)
+- [Prepare an HTBW native-capability migration review](../scenarios/prepare-an-htbw-native-capability-migration-review.md)
 
 All files are navigation-linked here, including this register and the root ignore policy.
 No runtime file, private source dataset, vendored document or environment artifact belongs in this inventory.
