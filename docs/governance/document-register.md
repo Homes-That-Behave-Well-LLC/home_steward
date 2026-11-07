@@ -1,6 +1,6 @@
 # Document register
 
-> Complete documentation inventory: 393 files. New requirements await Owner acceptance.
+> Complete documentation inventory: 413 files. New requirements await Owner acceptance.
 > Status definitions: [document status](document-status.md).
 
 ## Root (5; repository policy / navigation)
@@ -75,7 +75,7 @@
 - [Sonos MCP](../research/sonos-mcp.md)
 - [Apple TV and deep links](../research/apple-tv-and-deep-links.md)
 
-## Scenarios (339 documents; 314 primary scenarios + 23 family READMEs + map + template)
+## Scenarios (359 documents; 334 primary scenarios + 23 family READMEs + map + template)
 
 Developed content maturity is CANONICAL SCENARIO; new content is VISION — NOT YET ARCHITECTED. Neither records Owner acceptance. Family placement is navigation, not architecture or roadmap.
 
@@ -353,6 +353,26 @@ Developed content maturity is CANONICAL SCENARIO; new content is VISION — NOT 
 - [Are solar production and battery behavior meeting the intended outcome?](../scenarios/energy-water-and-resources/are-solar-production-and-battery-behavior-meeting-the-intended-outcome.md) — VISION — NOT YET ARCHITECTED.
 - [What happened during the utility peak-pricing window?](../scenarios/energy-water-and-resources/what-happened-during-the-utility-peak-pricing-window.md) — VISION — NOT YET ARCHITECTED.
 - [Is the apparent saving real, or was the Home simply unoccupied?](../scenarios/energy-water-and-resources/is-the-apparent-saving-real-or-was-the-home-simply-unoccupied.md) — VISION — NOT YET ARCHITECTED.
+- [What is this Home costing us to operate?](../scenarios/energy-water-and-resources/what-is-this-home-costing-us-to-operate.md) — VISION — NOT YET ARCHITECTED.
+- [Why was the electric bill higher this month?](../scenarios/energy-water-and-resources/why-was-the-electric-bill-higher-this-month.md) — VISION — NOT YET ARCHITECTED.
+- [Are we paying more because we're using more, or because electricity costs more?](../scenarios/energy-water-and-resources/are-we-paying-more-because-of-electricity-use-or-rates.md) — VISION — NOT YET ARCHITECTED.
+- [What are the major systems in this Home actually costing us?](../scenarios/energy-water-and-resources/what-are-the-major-systems-costing-us.md) — VISION — NOT YET ARCHITECTED.
+- [What does the pool cost us to operate?](../scenarios/energy-water-and-resources/what-does-the-pool-cost-us-to-operate.md) — VISION — NOT YET ARCHITECTED.
+- [How much does charging the vehicle at home cost us?](../scenarios/energy-water-and-resources/how-much-does-charging-the-vehicle-at-home-cost.md) — VISION — NOT YET ARCHITECTED.
+- [What does maintaining our preferred comfort level cost?](../scenarios/energy-water-and-resources/what-does-maintaining-our-preferred-comfort-level-cost.md) — VISION — NOT YET ARCHITECTED.
+- [What did the HVAC improvement actually save us?](../scenarios/energy-water-and-resources/what-did-the-hvac-improvement-actually-save-us.md) — VISION — NOT YET ARCHITECTED.
+- [What did our solar system actually save us?](../scenarios/energy-water-and-resources/what-did-our-solar-system-actually-save-us.md) — VISION — NOT YET ARCHITECTED.
+- [Is the household battery actually saving us money?](../scenarios/energy-water-and-resources/is-the-household-battery-actually-saving-us-money.md) — VISION — NOT YET ARCHITECTED.
+- [Are we buying electricity during expensive periods when stored energy might have been available?](../scenarios/energy-water-and-resources/are-we-buying-expensive-electricity-when-stored-energy-might-have-been-available.md) — VISION — NOT YET ARCHITECTED.
+- [What could we move out of expensive periods without affecting the household?](../scenarios/energy-water-and-resources/what-could-we-move-out-of-expensive-periods-without-affecting-the-household.md) — VISION — NOT YET ARCHITECTED.
+- [How much of our water use is landscaping?](../scenarios/energy-water-and-resources/how-much-of-our-water-use-is-landscaping.md) — VISION — NOT YET ARCHITECTED.
+- [How much water are we putting into the pool?](../scenarios/energy-water-and-resources/how-much-water-are-we-putting-into-the-pool.md) — VISION — NOT YET ARCHITECTED.
+- [Is our water usage pattern consistent with a possible leak?](../scenarios/energy-water-and-resources/is-our-water-usage-pattern-consistent-with-a-possible-leak.md) — VISION — NOT YET ARCHITECTED.
+- [Over the last year, what did our efficiency decisions actually save?](../scenarios/energy-water-and-resources/over-the-last-year-what-did-our-efficiency-decisions-actually-save.md) — VISION — NOT YET ARCHITECTED.
+- [Which efficiency changes sounded good but did not produce the result we expected?](../scenarios/energy-water-and-resources/which-efficiency-changes-did-not-produce-the-result-we-expected.md) — VISION — NOT YET ARCHITECTED.
+- [Are we spending more without getting a better household outcome?](../scenarios/energy-water-and-resources/are-we-spending-more-without-getting-a-better-household-outcome.md) — VISION — NOT YET ARCHITECTED.
+- [What changed in our energy and water use this month that is actually worth understanding?](../scenarios/energy-water-and-resources/what-changed-in-our-energy-and-water-use-this-month.md) — VISION — NOT YET ARCHITECTED.
+- [Prepare the monthly Household Resource Review](../scenarios/energy-water-and-resources/prepare-the-monthly-household-resource-review.md) — VISION — NOT YET ARCHITECTED.
 
 ### Accessibility
 
@@ -488,5 +508,5 @@ Developed content maturity is CANONICAL SCENARIO; new content is VISION — NOT 
 - [What breaks if this server disappears?](../scenarios/counterfactual-and-planning/what-breaks-if-this-server-disappears.md) — VISION — NOT YET ARCHITECTED.
 - [What knowledge survives if Home Steward disappears?](../scenarios/counterfactual-and-planning/what-knowledge-survives-if-home-steward-disappears.md) — VISION — NOT YET ARCHITECTED.
 
-All 393 files are navigation-linked here, including this register and the root ignore policy. The scenario map records all 10 explicit coverage dispositions without duplicate files.
+All 413 files are navigation-linked here, including this register and the root ignore policy. The scenario map preserves the original 10 explicit coverage dispositions; the resource family records its separate 25-question increment as 20 new Vision files and 5 existing-coverage links, without duplicate files.
 No runtime file, private source dataset, vendored document or environment artifact belongs in this inventory.

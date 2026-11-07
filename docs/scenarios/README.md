@@ -85,7 +85,7 @@ not extra scenario files.
 | [Travel, Absence and Return](travel-absence-and-return/README.md) | 1 | 7 | 8 |
 | [Resilience and Recovery](resilience-and-recovery/README.md) | 1 | 14 | 15 |
 | [Security and Privacy](security-and-privacy/README.md) | 0 | 17 | 17 |
-| [Energy, Water and Resources](energy-water-and-resources/README.md) | 0 | 11 | 11 |
+| [Energy, Water and Resources](energy-water-and-resources/README.md) | 0 | 31 | 31 |
 | [Accessibility](accessibility/README.md) | 0 | 10 | 10 |
 | [Guests and Temporary Authority](guests-and-temporary-authority/README.md) | 0 | 10 | 10 |
 | [Transitions and Succession](transitions-and-succession/README.md) | 0 | 11 | 11 |
@@ -96,9 +96,9 @@ not extra scenario files.
 | [Environmental Quality](environmental-quality/README.md) | 0 | 7 | 7 |
 | [Communication and Notification](communication-and-notification/README.md) | 0 | 8 | 8 |
 | [Counterfactual and Planning](counterfactual-and-planning/README.md) | 0 | 10 | 10 |
-| **Total: 23 families** | **78** | **236** | **314** |
+| **Total: 23 families** | **78** | **256** | **334** |
 
-There are **23 family READMEs plus this scenario map**, and one unchanged canonical template apart from approved Catalog link repairs. All 246 supplied questions have an explicit disposition: **236 new Vision files and 10 coverage links**.
+There are **23 family READMEs plus this scenario map**, and one unchanged canonical template apart from approved Catalog link repairs. In the original family-organization capture, all 246 supplied questions had an explicit disposition: **236 new Vision files and 10 coverage links**. The separate resource increment below adds twenty Vision files without rewriting that coverage history.
 
 ## Coverage and primary placement
 
@@ -122,6 +122,20 @@ Related subjects are not silently collapsed: known server-dependency inventory d
 permanent-loss counterfactual review; a short Internet outage differs from a three-day planning
 window; collection-level value/provenance gaps differ from the developed single-Asset insurance
 and painting conversations. Related families cross-link without duplicate primary files.
+
+## Resource and economizing increment
+
+[Energy, Water and Resources](energy-water-and-resources/README.md) now explores what the household
+uses, what it pays and whether the same or better outcome could be achieved with less justified cost.
+LOWER CONSUMPTION != BETTER HOUSEHOLD OUTCOME; LOWER COST != BETTER HOUSEHOLD OUTCOME.
+
+The family's [explicit question coverage](energy-water-and-resources/README.md#requested-question-coverage)
+records **25 questions: 20 new Vision files and 5 existing-coverage links**. All eleven earlier
+resource scenarios retain their bodies and maturity. Financial savings are distinct from consumption
+or generation; source access, comparison evidence and action authority remain separately governed.
+The new [Monthly Household Resource Review](energy-water-and-resources/prepare-the-monthly-household-resource-review.md)
+is an eighteen-topic Vision conversation, not a generator, optimizer or duplicate Home Possibility Review.
+This increment does not borrow the earlier corpus's Owner acceptance or change Issue #1's status.
 
 ## Shared boundaries and navigation
 

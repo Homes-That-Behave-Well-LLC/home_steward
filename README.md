@@ -98,6 +98,8 @@ Authorized unstructured-document retrieval, question answering, RAG-or-successor
 synthesis, comparison, summarization, explanation, permitted external research, conversational
 exploration, pattern identification and candidate relationship discovery.
 
+Home Steward may also help the household reason across authorized resource consumption, utility cost, rates, weather, occupancy and lived outcomes to understand where economizing is worthwhile without treating lower consumption as a better outcome by definition.
+
 [Extension model](docs/architecture/home-steward-extension-model.md):
 **HTBW native capability**, **Home Steward extended capability**, **Home Steward proposed action**.
 
