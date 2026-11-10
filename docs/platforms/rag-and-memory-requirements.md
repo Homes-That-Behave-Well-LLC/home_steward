@@ -12,7 +12,7 @@ Index build permission, retrieval permission and answer disclosure permission re
 Mixing authorized and restricted sources cannot widen a beneficiary set.
 
 Memory is not HTBW Continuity, not a new Fact register and not an unlimited conversation archive.
-Continuity owns applicable sessions/context; Home Steward may contribute. Do not use a vendor's
+Continuity owns applicable sessions/context; BehavesWell Extended Intelligence may contribute. Do not use a vendor's
 "private memory" claim to override consent, retention or deletion.
 
 Require source/version/grant lineage, bounded retention, correction, export/rebuild, source removal,

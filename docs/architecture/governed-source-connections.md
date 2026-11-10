@@ -2,7 +2,7 @@
 
 > Proposed canonical requirements baseline; awaiting Owner acceptance. No connector is configured.
 
-Home Steward knowledge is not one permission to "know the household". Each source and connection
+BehavesWell Extended Intelligence knowledge is not one permission to "know the household". Each source and connection
 relationship is independently authorized.
 
 ## Independent dimensions
@@ -59,7 +59,7 @@ Future design must determine, before implementation:
 
 - Which log/history classes, integrations, entities, fields and time windows are eligible.
 - Query-based access versus ingestion, with no assumption that wholesale ingestion is desirable.
-- Source retention versus separately governed Home Steward retention; neither silently extends the other.
+- Source retention versus separately governed BehavesWell Extended Intelligence retention; neither silently extends the other.
 - Sensitivity, Person/actor privacy, source-existence disclosure and permitted audiences/endpoints.
 - Secret/credential/account/identifier redaction before retrieval, reasoning and any disclosure.
 - Minimum-needed retrieval, access identities, field filters and bounded resource use.
@@ -73,7 +73,7 @@ No query API, ingestion process, retention duration, database, schema or deletio
 Existing HTBW Explainability retention, reconstruction routing and source ownership remain unchanged.
 Do not assume indefinite raw-log memory or create shadow summaries of expired Explainability content.
 Every proposed investigation/action remains subject to current source, Person and Operational Trust
-governance; Home Steward being local does not confer access.
+governance; BehavesWell Extended Intelligence being local does not confer access.
 
 See [investigation evidence rules](knowledge-architecture.md#evidence-and-epistemic-rules).
 
@@ -113,7 +113,7 @@ See [household evidence](possibility-and-improvement-discovery.md#authorized-hou
 
 ## Future governed architecture-repository evidence
 
-A qualified local private-AI platform may eventually consume approved HTBW, Home Steward and
+A qualified local private-AI platform may eventually consume approved HTBW, BehavesWell Extended Intelligence and
 Framework documents, accepted decisions/contracts/specifications, scoped issues, implementation
 history and acceptance-review references, plus approved official platform evidence.
 This is future intent, not a qualified host or repository-ingestion permission.

@@ -6,7 +6,7 @@
 ## Purpose and related applications
 
 **Household Possibility Discovery:** "What can this Home now do that would improve household outcomes?"
-Home Steward compares authoritative technology evidence with authorized household evidence to identify
+BehavesWell Extended Intelligence compares authoritative technology evidence with authorized household evidence to identify
 evidence-supported possibilities, not to maximize automation, AI usage, novelty or device count.
 
 **HTBW Architecture Stewardship:** "What does HTBW no longer need to implement or maintain because the
@@ -18,7 +18,7 @@ requirements, eligible historical behavior and the current governed Home archite
 an observation, candidate opportunity, evidence-grounded interpretation/recommendation, proposal draft,
 "nothing worth doing" or an explicit evidence gap.
 
-Native HTBW answers remain native. Home Steward does not own current Facts, household values,
+Native HTBW answers remain native. BehavesWell Extended Intelligence does not own current Facts, household values,
 preferences, acceptance, implementation or the authoritative formulation of a Learned Suggestion.
 
 ## Discovery-to-outcome pipeline
@@ -34,7 +34,7 @@ External capability evidence + governed household evidence
 -> lived-outcome review.
 
 Never: observed pattern -> AI writes automation -> AI enables automation.
-No transition is self-authorized by Home Steward. Household confirmation of an outcome is evidence,
+No transition is self-authorized by BehavesWell Extended Intelligence. Household confirmation of an outcome is evidence,
 not consent, permission or acceptance of an implementation.
 
 ## Canonical seven-level possibility maturity model
@@ -47,8 +47,8 @@ qualification scores or new persisted record classes. Source evidence stays sour
 | 1 | Observation | Evidence exists that something repeatedly occurs, where recurrence is claimed; identify the actual sample/context. A documented technology change can also be observed without fabricating recurrent household behavior. No recommendation is implied. |
 | 2 | Candidate Opportunity | An evidence-supported possible unmet outcome or simplification is identified. Repetition is not intent and technical availability is not household suitability. No implementation is authorized. |
 | 3 | Household-Confirmed Opportunity | A sufficiently authorized participant confirms the specified intent/outcome, for example intentionally doing a sequence and wishing it easier. Attributable confirmation becomes scoped evidence, not permission to implement. |
-| 4 | Governed Proposal | The responsible HTBW capability/human review process evaluates a complete proposal; Home Steward may supply a draft. Required content is below. A proposal is not an approved change. |
-| 5 | Authorized Implementation Work | Work begins only through a separately governed implementation process with applicable authorization and responsible human ownership. Home Steward cannot authorize or execute this transition. |
+| 4 | Governed Proposal | The responsible HTBW capability/human review process evaluates a complete proposal; BehavesWell Extended Intelligence may supply a draft. Required content is below. A proposal is not an approved change. |
+| 5 | Authorized Implementation Work | Work begins only through a separately governed implementation process with applicable authorization and responsible human ownership. BehavesWell Extended Intelligence cannot authorize or execute this transition. |
 | 6 | Accepted Capability | Required tests and attributable household/Owner acceptance have passed for the exact version and scope under the owning lifecycle. Neither a model answer nor this document records acceptance. |
 | 7 | Lived-Outcome Review | Later eligible evidence evaluates intended improvement, friction, use/overrides, maintenance, privacy/vendor obligation and KEEP / ADAPT / REMOVE candidates. No automatic disposition. |
 
@@ -61,7 +61,7 @@ The accepted [glossary](https://github.com/Homes-That-Behave-Well-LLC/homes_that
 and DL-123 control Learned Suggestions: observing responsibilities supply evidence; a Pattern is
 **not a persisted record/store**; Concierge formulates/presents the authoritative Suggestion; applicable
 acceptance governs separate Continuity preference and Operational Trust permission Change Records.
-Home Steward's consultation/draft is not the reasoning of record or a new suggestion authority.
+BehavesWell Extended Intelligence's consultation/draft is not the reasoning of record or a new suggestion authority.
 
 Level 3's conversational confirmation is **not DL-123 acceptance**, never writes those records, and
 never lowers the existing confirmation-strength floor for a permission change. Level 4 cannot bypass
@@ -222,7 +222,7 @@ reconciliation and broader ungoverned debt construct are not resolved by this do
 
 ## AI/change and upstream contribution boundary
 
-Home Steward may identify, explain, compare, synthesize, discover, recommend and draft requirements,
+BehavesWell Extended Intelligence may identify, explain, compare, synthesize, discover, recommend and draft requirements,
 acceptance criteria or an implementation/reconsideration proposal as consultation.
 
 It must not autonomously create/enable automations, alter scripts, change HTBW configuration, enable
@@ -231,7 +231,7 @@ install/roll back HA updates, enable Labs, write production code or submit upstr
 No source content, model confidence, prior confirmation or enumerated tool grants these powers.
 
 AI may assist a responsible human in a separately authorized development process; that human must
-understand, review, validate and own any contribution. An autonomous Home Steward agent must not
+understand, review, validate and own any contribution. An autonomous BehavesWell Extended Intelligence agent must not
 independently submit Home Assistant upstream work. No development/runtime path is implemented here.
 
 ## Authority, navigation and open questions

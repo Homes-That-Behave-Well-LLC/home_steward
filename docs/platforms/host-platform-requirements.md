@@ -20,7 +20,7 @@ embeddings; retrieval; parsing/OCR; file formats; image/audio support where need
 memory lifecycle; adapters; administration/health; 24x7 stability; thermals/noise/power; network
 connectivity; updates/security; backup/recovery; ownership/license/support.
 
-Home Steward should reuse commodity platform components, not build a bespoke generic AI stack.
+BehavesWell Extended Intelligence should reuse commodity platform components, not build a bespoke generic AI stack.
 No candidate receives credit for undocumented or assumed APIs. Hardware benchmarks do not prove RAG,
 policy enforcement or a complete household intelligence platform.
 

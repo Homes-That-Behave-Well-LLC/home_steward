@@ -7,11 +7,11 @@ Recommendation is not authorization. An AI result is not permission to act.
 
 ## Proposed action path
 
-Home Steward result/proposal -> responsible HTBW capability -> Operational Trust decision for this
+BehavesWell Extended Intelligence result/proposal -> responsible HTBW capability -> Operational Trust decision for this
 request/context -> required human confirmation/escalation -> Concierge orchestration ->
 authorized native executor -> observed result/Truth evidence -> existing Decision Trace.
 
-Operational Trust decides permission; it is not the executor. Home Steward cannot grant its own
+Operational Trust decides permission; it is not the executor. BehavesWell Extended Intelligence cannot grant its own
 permissions or record an action as physically successful because an API accepted a request.
 
 ## Forbidden shortcuts

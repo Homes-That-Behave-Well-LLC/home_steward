@@ -2,6 +2,9 @@
 
 > Proposed acceptance template; awaiting Owner review. Use fictional/synthetic records, not real
 > household data. Scenarios are architectural tests, not executed runtime tests or authorization.
+> *Naming (DL-153):* "Home Steward" in this template's section names is the former name of
+> **BehavesWell Extended Intelligence**. The numbered section names are kept unchanged for consistency
+> with existing scenarios; write new prose with the current product name.
 
 ## 1. Household request
 

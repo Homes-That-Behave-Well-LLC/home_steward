@@ -8,11 +8,11 @@
 The responsible capability supplies only authorized context: request/correlation reference,
 effective Person and purpose, relevant Room context, governed source references, eligible fields,
 retrieval/reasoning limits, locality constraints, evidence freshness and allowed output/proposal scope.
-Room is context, not Home Steward authorization owner.
+Room is context, not BehavesWell Extended Intelligence authorization owner.
 
 Use native stable/versioned identifiers; no display-name, vendor, IP or runtime-search identity.
 Existing Foundation `(room_id, function)` relationships may be consumed by an authorized integration;
-they are not recreated as a Home Steward endpoint map.
+they are not recreated as a BehavesWell Extended Intelligence endpoint map.
 
 ## Results
 
@@ -26,7 +26,7 @@ Decision Trace. Exact field names, versions, API/transport and correlation forma
 ## Integration requirements
 
 Assist remains the household surface; Concierge/responsible capabilities remain orchestrators.
-Check the effective Person's independent Home Steward gate; do not bypass denial through General
+Check the effective Person's independent Allow Home Steward gate (DL-93); do not bypass denial through General
 Reasoning. Provider substitution never changes governance.
 
 Authentication, timeouts, cancellation, rate limits, least-privilege service identities, reauth,

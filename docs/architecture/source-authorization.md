@@ -36,4 +36,4 @@ Exactly how deletions, backups, offline nodes and holds are reconciled remains a
 question, not a solved feature. See [derived lifecycle](derived-knowledge-lifecycle.md).
 
 Foundation holds consent records; Identity owns their lifecycle; Operational Trust evaluates policy
-and permission for this request. Home Steward owns none of those decisions.
+and permission for this request. BehavesWell Extended Intelligence owns none of those decisions.

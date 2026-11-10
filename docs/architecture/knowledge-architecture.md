@@ -4,7 +4,7 @@
 
 ## Knowledge classes
 
-| Class | Source of authority | Home Steward treatment |
+| Class | Source of authority | BehavesWell Extended Intelligence treatment |
 |---|---|---|
 | Governed Home definitions/relationships | Foundation/responsible HTBW owner | Consume by stable/versioned reference, never reconstruct a competing catalog |
 | Current/historical Facts | Truth | Preserve time/quality/validity; do not override with model output |
@@ -35,18 +35,19 @@ a chunk without source identity/version is insufficient provenance.
 Prompt injection in source documents is untrusted content, never an instruction to alter scope,
 invoke tools or disclose other sources. Enforcement must be outside the model.
 
-## HTBW Explainability and Home Steward investigation
+<a id="htbw-explainability-and-home-steward-investigation"></a>
+## HTBW Explainability and BehavesWell Extended Intelligence investigation
 
 **HTBW Explainability:** "Explain this governed event or non-event."
 
-**Home Steward investigation:** "Reason across multiple governed events, logs, changes, documents,
+**BehavesWell Extended Intelligence investigation:** "Reason across multiple governed events, logs, changes, documents,
 time periods and other authorized evidence to help the household understand patterns, trends,
 hypotheses, consequences and unresolved questions."
 
 This distinction is about the work required, **not a prohibition on native historical queries**.
 Accepted HTBW Explainability already supports time ranges, historical Facts, exact-version
 reconstruction, cross-Room traces and bounded correlation/causation scopes. A native historical
-answer or straightforward retained-record query does not require Home Steward. Home Steward adds
+answer or straightforward retained-record query does not require it. BehavesWell Extended Intelligence adds
 interpretation and cross-source synthesis; it never takes over those accepted retrieval paths.
 
 The existing Decision Trace remains the Explainability spine:
@@ -58,7 +59,7 @@ The trace remains authoritative for the governed decision it records, not proof 
 effect. Successful command issuance does not establish an observed outcome.
 
 Concierge composes the trace from its owners' contributions. Persisted content is the accepted
-Explainability Record, not a second Home Steward history. The existing `outcome_generated` /
+Explainability Record, not a second BehavesWell Extended Intelligence history. The existing `outcome_generated` /
 `on_demand_decision_trace` origins, new-record rules, audience-governed Assist projections and
 household-configured retention remain unchanged. No new trace fields, origin, reconstruction store,
 retention duration or indefinite shadow summary is introduced.
@@ -89,7 +90,7 @@ deduplication and gaps. Distinguish first observed/retained evidence from actual
 Truth or Identity confidence bands into probabilities. Ordinary non-actions and permitted manual
 overrides are not automatically failures.
 
-Native HA history/logs remain source-owned. Home Steward must not automatically copy whole streams,
+Native HA history/logs remain source-owned. BehavesWell Extended Intelligence must not automatically copy whole streams,
 preserve indefinite raw-log memory by default, re-derive competing Fact history, reconstruct expired content by invention,
 or bypass an expired Explainability record through a retained shadow narrative. Derived summaries
 inherit source authorization, sensitivity, locality and lifecycle; retention/deletion mechanics for
@@ -104,7 +105,7 @@ Access, disclosure and endpoint eligibility remain independently governed. Techn
 and friction analysis must not evaluate or rank people, infer human worth, or create performance profiles.
 
 All proposed investigation, review, KEEP / ADAPT / REMOVE dispositions and corrective actions return
-through the responsible HTBW capability, Operational Trust and Concierge. Home Steward may not
+through the responsible HTBW capability, Operational Trust and Concierge. BehavesWell Extended Intelligence may not
 autonomously alter policy/preferences, disable integrations, remove automations, change Stewardship
 obligations, roll back software, restart infrastructure, replace devices, schedule service or contact
 vendors. Tools, model confidence and household confirmation of evidence are not those permissions.

@@ -14,10 +14,10 @@ Local-only processing must be enforceable; remote/cloud fallback cannot be autom
 actual provider/model and limitations, not a silent substitute. Do not log secrets or retain unlimited
 raw prompts/responses. Carry minimal provenance/configuration versions for explainable results.
 
-Household Knowledge Provider/Home Steward is distinct from configured General Reasoning. Independent
+Household Knowledge Provider/BehavesWell Extended Intelligence is distinct from configured General Reasoning. Independent
 Person gates Allow Home Steward / Allow General Questions remain YES/NO, without implied permission.
 Accepted General Reasoning resolution remains **Person -> Integration-default -> unavailable**.
-No Room provider-selection or authorization step and no runtime provider discovery/fallback to Home Steward.
+No Room provider-selection or authorization step and no runtime provider discovery/fallback to BehavesWell Extended Intelligence.
 
 A generic API client never grants HTBW knowledge access or Home control. Exact SDK and transport
 choice remain deferred. See [HA research](../research/home-assistant-ai-integration-surface.md).

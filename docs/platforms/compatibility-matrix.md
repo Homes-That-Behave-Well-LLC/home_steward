@@ -1,7 +1,7 @@
 # Compatibility matrix
 
 > Proposed schema and initial public-source inventory; 2026-11-07. **No scores or qualifications.**
-> API naming, hardware and local-operation claims are not verified Home Steward compatibility.
+> API naming, hardware and local-operation claims are not verified BehavesWell Extended Intelligence compatibility.
 
 | Candidate / role | Bootstrap evidence | Important unresolved boundary | Outcome | Issue |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@
 #2 must finalize configuration/version/date, candidate lifecycle, source links/evidence ratings,
 per-gate PASS/FAIL/UNKNOWN with rationale, API types/auth, model/context/concurrency, local/egress
 policy, source/Person/derived lifecycle, portability/vendor-exit, HA generic interface versus
-Home Steward governed fit, TCO/Owner time, conditions and authorized Reference Home entry.
+BehavesWell Extended Intelligence governed fit, TCO/Owner time, conditions and authorized Reference Home entry.
 
 Never record an invented value to fill a cell. A blank capability is unknown, not absent or PASS.
 No weighted score until all hard gates pass under the accepted standard.

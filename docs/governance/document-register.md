@@ -1,7 +1,10 @@
 # Document register
 
-> Complete documentation inventory: 709 files. New requirements await Owner acceptance.
+> Complete documentation inventory: 710 files. New requirements await Owner acceptance.
 > Status definitions: [document status](document-status.md).
+> Product: **BehavesWell Extended Intelligence**, formerly Home Steward (HTBW DL-153;
+> [#6](https://github.com/Homes-That-Behave-Well-LLC/home_steward/issues/6)). Scenario titles and
+> filenames listed below keep the former name; read it as the current product name.
 
 ## Root (5; repository policy / navigation)
 
@@ -11,13 +14,16 @@
 - [CODE_OF_CONDUCT](../../CODE_OF_CONDUCT.md)
 - [.gitignore](../../.gitignore)
 
-## Documentation assets (1; supplied README artwork)
+## Documentation assets (1; historical artwork)
 
-- [Home Steward hero image](../assets/home-steward-hero.png)
+- [Home Steward hero image](../assets/home-steward-hero.png) — **historical** artwork under the former
+  name, with residential framing. Retained but not shown as the README hero, and not a BehavesWell
+  Extended Intelligence product mark (DL-153; mark pending separate design work).
 
-## Architecture (16; proposed canonical baseline, with explicit accepted-boundary restatements)
+## Architecture (17; proposed canonical baseline, with explicit accepted-boundary restatements)
 
 - [North Star](../architecture/north-star.md)
+- [Product identity and compatibility boundary](../architecture/product-identity-and-compatibility-boundary.md) — accepted authority restatement (DL-153, DL-131), 2026-11-10
 - [Scope and non-goals](../architecture/scope-and-non-goals.md)
 - [HTBW boundary](../architecture/htbw-boundary.md)
 - [Framework relationship](../architecture/behaves-well-framework-relationship.md)
@@ -834,6 +840,6 @@ Developed content maturity is CANONICAL SCENARIO; new content is VISION — NOT 
 - [What remains unproven?](../scenarios/reference-home-evidence-and-product-learning/what-remains-unproven.md) — VISION — NOT YET ARCHITECTED.
 
 
-All 709 files are navigation-linked here, including this register and the root ignore policy. The scenario map preserves the original 10 explicit coverage dispositions; the resource family records its separate 25-question increment as 20 new Vision files and 5 existing-coverage links, without duplicate files. The ambient increment separately records all 217 occurrences: 180 new primaries, 28 existing-coverage occurrences (24 unique targets), and 9 new-primary aliases.
+All 710 files (709 at bootstrap, plus the DL-153 product-identity document) are navigation-linked here, including this register and the root ignore policy. The scenario map preserves the original 10 explicit coverage dispositions; the resource family records its separate 25-question increment as 20 new Vision files and 5 existing-coverage links, without duplicate files. The ambient increment separately records all 217 occurrences: 180 new primaries, 28 existing-coverage occurrences (24 unique targets), and 9 new-primary aliases.
 The Reference Home increment separately records all 199 occurrences: 99 new primaries, 73 existing-coverage occurrences (49 unique targets), and 27 new-primary aliases. Its four family READMEs and navigation-only walkthrough are inventoried once alongside every new primary.
 No runtime file, private source dataset, vendored document or environment artifact belongs in this inventory.

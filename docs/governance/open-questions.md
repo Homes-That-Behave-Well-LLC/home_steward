@@ -4,11 +4,14 @@
 
 ## Public Framework alignment
 
-**REMEDIATION REQUIRED:** public Framework v1.0 and HTBW website describe six responsibilities;
-accepted HTBW requires seven including Foundation and a different ordered set.
-[Evidence and affected assertion](../architecture/behaves-well-framework-relationship.md#publication-discrepancy).
-Owner must disposition publication/authority alignment. No public or accepted architecture is
-changed here. Track in [#1](https://github.com/Homes-That-Behave-Well-LLC/home_steward/issues/1), not a sixth issue.
+**Resolved at the repository level by HTBW DL-153 (2026-11-10).** The public Framework's six stages
+(Truth, Identity, Operational Trust, Stewardship, Continuity, Concierge) are correct. Foundation is
+**Layer 0** of a BehavesWell Core implementation, not a seventh Framework stage.
+[Updated relationship](../architecture/behaves-well-framework-relationship.md).
+Remaining: how the public specification words three stages (Identity 02.01, Operational Trust
+03.02/03.03, Continuity 05.01) is tracked at
+[Core #215](https://github.com/Homes-That-Behave-Well-LLC/homes_that_behave_well/issues/215).
+The earlier wording of this question (six versus seven) is retained in #1's history.
 
 ## Licensing
 

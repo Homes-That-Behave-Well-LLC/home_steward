@@ -2,7 +2,7 @@
 
 > Proposed canonical baseline; awaiting Owner acceptance. Foundation remains durable-relationship owner.
 
-Home Steward may discover candidate connections among authorized Assets, trips, renovations, family
+BehavesWell Extended Intelligence may discover candidate connections among authorized Assets, trips, renovations, family
 provenance, documents and events. Discovery is inference, not Truth, consent or a silent write.
 
 ## Distinct stages

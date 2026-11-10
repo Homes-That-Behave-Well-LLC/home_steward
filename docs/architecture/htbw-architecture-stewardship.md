@@ -5,7 +5,7 @@
 
 ## Purpose and Home Assistant First
 
-Home Steward may help steward HTBW itself by comparing accepted architecture and implementation with
+BehavesWell Extended Intelligence may help steward HTBW itself by comparing accepted architecture and implementation with
 current authoritative platform evidence. Identify changed assumptions, native alternatives,
 compatibility/workaround candidates and new obligations, not automatically obsolete decisions.
 
@@ -38,7 +38,7 @@ Engineering review is a separately authorized context, not an implemented second
 
 ## Authoritative inputs and local knowledge intent
 
-Potential separately governed inputs include the complete HTBW and Home Steward repositories;
+Potential separately governed inputs include the complete HTBW and BehavesWell Extended Intelligence repositories;
 Framework documentation; accepted ADRs/Decision Ledger/contracts/specifications; open/deferred
 requirements and issues; existing technical-debt notes; implementation/commit history and attributable
 acceptance reviews; official HA release/developer/blog/architecture/breaking-change/deprecation/Labs/
@@ -168,11 +168,11 @@ failure. No removal date or actual code dependency is invented.
 Technical Debt remains an assessment lens and existing governed notes, not a new responsibility,
 runtime registry or general accepted model. DL-89's literal-endpoint convention stays narrow; the
 separate Framework/HTBW reconciliation and broader debt-construct question remain untouched.
-Stewardship/other responsible owners evaluate obligations; Home Steward does not create or satisfy them.
+Stewardship/other responsible owners evaluate obligations; BehavesWell Extended Intelligence does not create or satisfy them.
 
 ## Recommendation, change and upstream limits
 
-Home Steward may compare evidence, locate rationale, identify gaps/dependencies/affected artifacts,
+BehavesWell Extended Intelligence may compare evidence, locate rationale, identify gaps/dependencies/affected artifacts,
 draft a reconsideration proposal or migration acceptance criteria and recommend governed review.
 Any future monitoring is separately authorized and unimplemented.
 
@@ -183,7 +183,7 @@ It cannot bypass Owner acceptance, HA-DEV or Reference Home validation. The resp
 governance process owns any subsequent decision or implementation.
 
 AI may assist a responsible human who understands, reviews, validates and owns development.
-An autonomous Home Steward agent must not independently submit Home Assistant upstream contributions.
+An autonomous BehavesWell Extended Intelligence agent must not independently submit Home Assistant upstream contributions.
 No contribution, code generation, migration executor or automated decision-amendment path exists here.
 
 ## Existing authority and open questions

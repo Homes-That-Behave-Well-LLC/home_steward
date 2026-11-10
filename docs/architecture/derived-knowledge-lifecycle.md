@@ -33,7 +33,7 @@ correction of a false inference; platform/model replacement; backup/restore; law
 Required surfaces include chunks/indexes, embeddings, memories, summaries, caches, replicas, paired
 clients, exports and restored backups. A restored snapshot must not resurrect revoked access.
 Deletion and Preservation Hold must follow the existing responsible owner's governance, not a new
-central Home Steward history/hold authority.
+central BehavesWell Extended Intelligence history/hold authority.
 
 ## Open implementation questions
 

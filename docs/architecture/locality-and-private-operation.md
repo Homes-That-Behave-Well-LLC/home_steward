@@ -14,7 +14,7 @@ A separate private-AI appliance in that boundary can be local.
 
 ## Explicitly governed relationships
 
-HTBW/HA -> Home Steward; Home Steward -> private-AI appliance; appliance -> approved NAS namespace,
+HTBW/HA -> BehavesWell Extended Intelligence; BehavesWell Extended Intelligence -> private-AI appliance; appliance -> approved NAS namespace,
 local model, embeddings service, vector store, Music Assistant, local MCP service or another admitted
 source/capability.
 
@@ -35,7 +35,7 @@ data transfer.
 
 Broader HTBW General Reasoning permits configured household-approved cloud providers under DL-93.
 This stronger Owner-directed profile does not erase those accepted options or automatically route
-General Reasoning through Home Steward.
+General Reasoning through BehavesWell Extended Intelligence.
 
 ## Unavailable behavior
 

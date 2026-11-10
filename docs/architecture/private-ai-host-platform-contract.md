@@ -2,7 +2,7 @@
 
 > Proposed canonical requirement; awaiting Owner acceptance in [#2](https://github.com/Homes-That-Behave-Well-LLC/home_steward/issues/2).
 
-Home Steward should operate above a qualified, replaceable private-AI platform supplying commodity
+BehavesWell Extended Intelligence should operate above a qualified, replaceable private-AI platform supplying commodity
 infrastructure, not require HTBW to build a generic AI distribution.
 
 ## Platform services
@@ -14,7 +14,8 @@ health, updates, backup and recovery.
 Services may be composed across explicitly admitted local hosts/namespaces. Their presence does not
 mean all are required, authorized, implemented or equally trustworthy.
 
-## Home Steward obligations
+<a id="home-steward-obligations"></a>
+## BehavesWell Extended Intelligence obligations
 
 Consume governed household knowledge, scope requests, preserve provenance and uncertainty, maintain
 source/derived lifecycle requirements and return proposals to HTBW. No new original-data or

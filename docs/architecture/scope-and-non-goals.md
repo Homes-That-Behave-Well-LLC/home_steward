@@ -5,7 +5,8 @@
 ## Current phase
 
 Architecture, governance, fictional scenarios, vendor-neutral requirements and dated public-source
-bootstrap notes. Exactly five issues; no candidate-per-issue expansion.
+bootstrap notes. Five bootstrap/research issues (#1-#5), plus #6 for the DL-153 product-identity
+transition; no candidate-per-issue expansion.
 
 ## In scope as requirements, not implementations
 
@@ -15,7 +16,7 @@ integration boundary. Each requires its own review before runtime work.
 
 ## Not in scope
 
-- An eighth responsibility or transferred HTBW ownership.
+- A new Framework stage, a BehavesWell Core layer or Edition, or transferred BehavesWell Core ownership (DL-153).
 - Authoritative Home state, person resolution, consent decisions, obligations, execution or Trace ownership.
 - A new household conversational surface replacing Assist/Concierge.
 - Inference/model selection, proprietary platform commitment or hardware purchase.

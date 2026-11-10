@@ -1,6 +1,17 @@
 # Scenario-family map
 
-Home Steward is being developed **scenario first**. This library preserves household questions,
+> **Product name transition (HTBW DL-153, 2026-11-10; [#6](https://github.com/Homes-That-Behave-Well-LLC/home_steward/issues/6)).**
+> These scenarios were captured under the product's former working name, **Home Steward**. The product
+> is now **BehavesWell Extended Intelligence** — the same product, renamed. Wherever a scenario, family
+> README, section heading (for example *"Possible Home Steward extension"*), title, or filename says
+> *Home Steward*, read it as BehavesWell Extended Intelligence. Scenarios are not rewritten, and their
+> filenames and paths are retained so existing links work. The rename changes no scenario's maturity,
+> scope, or authority: it is not Stewardship, and broader authorized reasoning context never implies
+> broader authority. See
+> [product identity](../architecture/product-identity-and-compatibility-boundary.md).
+
+BehavesWell Extended Intelligence (formerly Home Steward) is being developed **scenario first**. This
+library preserves household questions,
 experiences, problems, opportunities and future possibilities before deciding how any solution
 should be architected.
 
